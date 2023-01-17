@@ -1,0 +1,22 @@
+#+title: Flowchart
+
+#+begin_src dot :file test.png
+  digraph graphname{
+                  rankdir=LR; //Left to right
+
+                  a1 [label="API1" color=Red fontsize=14 shape=box]
+                  a2 [label="API2" color=Green fontsize=14 shape=box]
+                  edge [color=Blue] //all line color
+
+                  H -> R;
+                  R -> P;
+                  R -> a1;
+                  a1 -> a2;
+                  a2 -> a1
+                  a2 -> P;
+          }
+
+#+end_src
+
+#+RESULTS:
+[[file:test.png]]
