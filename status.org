@@ -1,8 +1,6 @@
-#+title: Oppgaver og Ansvar
+#+title: Status på arbeidet i Fyrtårnprosjekte for FHI
 #+subtitle: Status oppdatering
 #+date: 18.jan 2023
-
-* Status på arbeidet i Fyrtårnprosjekte for FHI
 
 ** Prosjektprotokoll og REK-søknad [1/2]
  - [X] Utarbeidet prosjektprotokoll og REK søknad
