@@ -1,0 +1,18 @@
+#+title: Oppgaver og Ansvar
+#+subtitle: Status oppdatering
+#+date: 18.jan 2023
+
+# Status på arbeidet i Fyrtårnprosjekte for FHI
+
+## Prosjektprotokoll og REK-søknad [1/2]
+ - [X] Utarbeidet prosjektprotokoll og REK søknad
+ - [ ] Forskningsspørsmål:
+   - Hvor mange skadde pasienter behandles i helsetjenesten totalt, samt fordelt etter
+     - viktige typer ulykker/skader
+     - alvorlighetsgrad (AIS)
+     - behandligsnivå (innlagt på sykehus, poliklinikk, legevakt og fastlege)
+   - Sosiodemografisk og geografisk ulikhet i forekomst av skader
+   - Vurdering av datakvalitet
+     - kompletthet
+     - samsvar mellom NTR og politiregisteret
+   - REK-søknaden ble godkjent i desember 2022
