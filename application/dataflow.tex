@@ -43,15 +43,15 @@
 
 \begin{tikzpicture}[node distance=1cm, auto,]
   % nodes
-  \node[box, text width=3em, scale=.8] (kpr) {KPR};
-  \node[box, draw=white, scale=1, text width=10em, above=of kpr] (title) {Studiedesign del 1};
-  \node[round, below=of kpr] (population) {Studiepopulasjon};
+  \node[box, text width=3em, scale=.8] (fmds) {FMDS};
+  \node[box, draw=white, scale=1, text width=10em, above=of fmds] (title) {Studiedesign del 1};
+  \node[round, below=of fmds] (population) {Studiepopulasjon};
   \node[box, draw=white, text width=4em, below=of population] (fhi){FHI};
-  \node[box, text width=3em, scale=.8, right=of kpr] (fmds) {FMDS}
+  \node[box, text width=3em, scale=.8, right=of fmds] (kpr) {KPR}
      edge[arrow, bend left=45] (population.east);
-  \node[box, text width=3em, scale=.8, left=of kpr] (NPR) {NPR}
+  \node[box, text width=3em, scale=.8, left=of fmds] (NPR) {NPR}
      edge[arrow, bend right=45] (population.west);
-  \path[line] (kpr) -- (population);
+  \path[line] (fmds) -- (population);
   \path[line] (population) -- node[right=.2, scale=.6, text width=3cm]
   {Avidentifiserte data}($(population)!.6!(fhi)$);
   \circledarrow{thick, black}{fhi}{.6cm};
