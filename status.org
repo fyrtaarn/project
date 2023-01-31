@@ -1,10 +1,19 @@
-#+title: Status på arbeidet i Fyrtårnprosjekte for FHI
+#+title: Aktiviteter i Fyrtårnprosjekte for FHI
 #+subtitle: Status oppdatering
+#+author: ""
 #+date: 18.jan 2023
 
-** Prosjektprotokoll og REK-søknad [1/2]
- - [X] Utarbeidet prosjektprotokoll og REK søknad
- - [ ] Forskningsspørsmål:
+* Prosjektprotokoll
+*Status:* Ferdig
+*Dato:* 2022
+
+Utarbeidet prosjektprotokoll
+
+* REK søknad
+*Status:* Ferdig
+*Dato:* 2022
+
+ - Forskningsspørsmål:
    - Hvor mange skadde pasienter behandles i helsetjenesten totalt, samt fordelt etter
      - viktige typer ulykker/skader
      - alvorlighetsgrad (AIS)
@@ -14,3 +23,8 @@
      - kompletthet
      - samsvar mellom NTR og politiregisteret
    - REK-søknaden ble godkjent i desember 2022
+* DPIA
+*Status:* Sendt til PVO
+*Dato:*
+
+Søknaden er sendt videre til PVO av FAS.
