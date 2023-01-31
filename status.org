@@ -100,3 +100,8 @@ Indikatorer er basert på FMDS skjema
 *Status:* \\
 *Dato:* \\
 *Prioritering:* \\
+
+
+# Local Variables:
+# after-save-hook: (lambda nil (when (org-html-export-to-html) (rename-file "status.html" "index.html" t)))
+# End:
