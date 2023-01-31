@@ -5,6 +5,9 @@
 
 #+OPTIONS: toc:nil
 
+# Newline with different export option
+#+MACRO: NL @@latex:\\@@ @@html:<br>@@
+
 # Use Norwegian for Table of Contents
 #+LANGUAGE: no
 #+LATEX_HEADER: \usepackage[AUTO]{babel}
@@ -26,9 +29,9 @@ Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
 
 * Prosjektprotokoll
 
-*Status:* Ferdig \\
-*Dato:* 2022 \\
-*Prioritering:* A \\
+*Status:* Ferdig {{{NL}}}
+*Dato:* 2022 {{{NL}}}
+*Prioritering:* A {{{NL}}}
 
 - Utarbeidet prosjektprotokoll
 
@@ -43,51 +46,51 @@ Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
     - samsvar mellom NTR og politiregisteret
 * REK søknad
 
-*Status:* Ferdig \\
-*Dato:* 2022 \\
-*Prioritering:* A \\
+*Status:* Ferdig {{{NL}}}
+*Dato:* 2022 {{{NL}}}
+*Prioritering:* A {{{NL}}}
 
 REK-søknaden ble godkjent i desember 2022
 * DPIA
 
-*Status:* Sendt til PVO \\
-*Dato:* 24.01.2023 \\
-*Prioritering:* A \\
+*Status:* Sendt til PVO {{{NL}}}
+*Dato:* 24.01.2023 {{{NL}}}
+*Prioritering:* A {{{NL}}}
 
 Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 
 * Oppdragsavtale med SVV
 
-*Status:* Sendt forslag til SVV \\
-*Dato:* 24.01.2023 \\
-*Prioritering:* B \\
+*Status:* Sendt forslag til SVV {{{NL}}}
+*Dato:* 24.01.2023 {{{NL}}}
+*Prioritering:* B {{{NL}}}
 
 Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekrefetet mottat.
 * Anonyme data fra NTR
 
-*Status:* Har tatt kontakt med NTR \\
-*Dato:* 17.01.2023 \\
-*Prioritering:* A \\
+*Status:* Har tatt kontakt med NTR {{{NL}}}
+*Dato:* 17.01.2023 {{{NL}}}
+*Prioritering:* A {{{NL}}}
 
 Marianne skal gi beskjed når NTR får data fra Ullevål
 * Søker om tilgang til data fra NPR
 
-*Status:* \\
-*Dato:* \\
-*Prioritering:* \\
+*Status:* {{{NL}}}
+*Dato:* {{{NL}}}
+*Prioritering:* {{{NL}}}
 * Utvikle indikatorer for løpende statistikk
-*Status:* \\
-*Dato:* \\
-*Prioritering:* \\
+*Status:* {{{NL}}}
+*Dato:* {{{NL}}}
+*Prioritering:* {{{NL}}}
 
 Indikatorer er basert på FMDS skjema
 * Utvikle analysesystem for produksjon av løpende statistikk
 
-*Status:* \\
-*Dato:* \\
-*Prioritering:* \\
+*Status:* {{{NL}}}
+*Dato:* {{{NL}}}
+*Prioritering:* {{{NL}}}
 * Preliminære analyser av FMDS data
 
-*Status:* \\
-*Dato:* \\
-*Prioritering:* \\
+*Status:* {{{NL}}}
+*Dato:* {{{NL}}}
+*Prioritering:* {{{NL}}}
