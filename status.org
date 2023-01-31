@@ -29,9 +29,9 @@ Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
 
 * Prosjektprotokoll
 
-*Status:* Ferdig {{{NL}}}
-*Dato:* 2022 {{{NL}}}
-*Prioritering:* A {{{NL}}}
+*Status:* Ferdig \\
+*Dato:* 2022 \\
+*Prioritering:* A \\
 
 - Utarbeidet prosjektprotokoll
 
@@ -46,51 +46,57 @@ Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
     - samsvar mellom NTR og politiregisteret
 * REK søknad
 
-*Status:* Ferdig {{{NL}}}
-*Dato:* 2022 {{{NL}}}
-*Prioritering:* A {{{NL}}}
+*Status:* Ferdig \\
+*Dato:* 2022 \\
+*Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
 * DPIA
 
-*Status:* Sendt til PVO {{{NL}}}
-*Dato:* 24.01.2023 {{{NL}}}
-*Prioritering:* A {{{NL}}}
+*Status:* Sendt til PVO \\
+*Dato:* 24.01.2023 \\
+*Prioritering:* A \\
 
 Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 
 * Oppdragsavtale med SVV
 
-*Status:* Sendt forslag til SVV {{{NL}}}
-*Dato:* 24.01.2023 {{{NL}}}
-*Prioritering:* B {{{NL}}}
+*Status:* Sendt forslag til SVV \\
+*Dato:* 24.01.2023 \\
+*Prioritering:* B \\
 
 Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekrefetet mottat.
 * Anonyme data fra NTR
 
-*Status:* Har tatt kontakt med NTR {{{NL}}}
-*Dato:* 17.01.2023 {{{NL}}}
-*Prioritering:* A {{{NL}}}
+*Status:* Har tatt kontakt med NTR \\
+*Dato:* 17.01.2023 \\
+*Prioritering:* A \\
 
 Marianne skal gi beskjed når NTR får data fra Ullevål
 * Søker om tilgang til data fra NPR
 
-*Status:* {{{NL}}}
-*Dato:* {{{NL}}}
-*Prioritering:* {{{NL}}}
+*Status:* \\
+*Dato:* \\
+*Prioritering:* \\
+
+- Søknad for tilgang til data må gjøres 3 - 4 uker før ønsket leveringstidspunkt.
+- Søknadsskjema er tilgjengelig på [[https://www.altinn.no][https://www.altinn.no]] og henvise til Helsedirektoratets saksnummer
+- Sjekk dato for publisering av aktuelle datagrunnlag i [[https://www.helsedirektoratet.no/tema/statistikk-registre-og-rapporter/helsedata-og-helseregistre/statistikkalender][statistikkalender]]
+
 * Utvikle indikatorer for løpende statistikk
-*Status:* {{{NL}}}
-*Dato:* {{{NL}}}
-*Prioritering:* {{{NL}}}
+*Status:* \\
+*Dato:* \\
+*Prioritering:* \\
 
 Indikatorer er basert på FMDS skjema
 * Utvikle analysesystem for produksjon av løpende statistikk
 
-*Status:* {{{NL}}}
-*Dato:* {{{NL}}}
-*Prioritering:* {{{NL}}}
+*Status:* \\
+*Dato:* \\
+*Prioritering:* \\
+
 * Preliminære analyser av FMDS data
 
-*Status:* {{{NL}}}
-*Dato:* {{{NL}}}
-*Prioritering:* {{{NL}}}
+*Status:* \\
+*Dato:* \\
+*Prioritering:* \\
