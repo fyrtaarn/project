@@ -1,7 +1,7 @@
 #+title: Aktiviteter i Fyrtårnprosjekte for FHI
 #+subtitle: Status oppdatering
 #+author:
-#+date: 18.jan 2023
+#+date: \today
 
 #+OPTIONS: toc:nil
 
@@ -129,6 +129,3 @@ Indikatorer er basert på FMDS skjema
 *Prioritering:* \\
 
 
-# Local Variables:
-# after-save-hook: (lambda nil (when (org-html-export-to-html) (rename-file "status.html" "index.html" t)))
-# End:
