@@ -1,30 +1,93 @@
 #+title: Aktiviteter i Fyrtårnprosjekte for FHI
 #+subtitle: Status oppdatering
-#+author: ""
+#+author:
 #+date: 18.jan 2023
 
+#+OPTIONS: toc:nil
+
+# Use Norwegian for Table of Contents
+#+LANGUAGE: no
+#+LATEX_HEADER: \usepackage[AUTO]{babel}
+
+# Hide red color link in Table of Contents
+#+LATEX_HEADER: \hypersetup{colorlinks=true, linkcolor=black}
+
+#+LATEX: \tableofcontents
+#+LATEX: \clearpage
+
+# Don't indent first line in paragraph
+#+LATEX: \setlength{\parindent}{0pt}
+
+#+LATEX_HEADER: \usepackage[left=3cm, right=2.5cm]{geometry}
+
+Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
+*Status* kan være /Ferdig, Pågående eller Ikke starte/. *Prioritering* kan være
+/A, B eller C/ hvor /A/ er høyest og /C/ er lavest.
+
 * Prosjektprotokoll
-*Status:* Ferdig
-*Dato:* 2022
 
-Utarbeidet prosjektprotokoll
+*Status:* Ferdig \\
+*Dato:* 2022 \\
+*Prioritering:* A \\
 
+- Utarbeidet prosjektprotokoll
+
+- Forskningsspørsmål:
+  - Hvor mange skadde pasienter behandles i helsetjenesten totalt, samt fordelt etter
+    - viktige typer ulykker/skader
+    - alvorlighetsgrad (AIS)
+    - behandligsnivå (innlagt på sykehus, poliklinikk, legevakt og fastlege)
+  - Sosiodemografisk og geografisk ulikhet i forekomst av skader
+  - Vurdering av datakvalitet
+    - kompletthet
+    - samsvar mellom NTR og politiregisteret
 * REK søknad
-*Status:* Ferdig
-*Dato:* 2022
 
- - Forskningsspørsmål:
-   - Hvor mange skadde pasienter behandles i helsetjenesten totalt, samt fordelt etter
-     - viktige typer ulykker/skader
-     - alvorlighetsgrad (AIS)
-     - behandligsnivå (innlagt på sykehus, poliklinikk, legevakt og fastlege)
-   - Sosiodemografisk og geografisk ulikhet i forekomst av skader
-   - Vurdering av datakvalitet
-     - kompletthet
-     - samsvar mellom NTR og politiregisteret
-   - REK-søknaden ble godkjent i desember 2022
+*Status:* Ferdig \\
+*Dato:* 2022 \\
+*Prioritering:* A \\
+
+REK-søknaden ble godkjent i desember 2022
 * DPIA
-*Status:* Sendt til PVO
-*Dato:*
 
-Søknaden er sendt videre til PVO av FAS.
+*Status:* Sendt til PVO \\
+*Dato:* 24.01.2023 \\
+*Prioritering:* A \\
+
+Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
+
+* Oppdragsavtale med SVV
+
+*Status:* Sendt forslag til SVV \\
+*Dato:* 24.01.2023 \\
+*Prioritering:* B \\
+
+Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekrefetet mottat.
+* Anonyme data fra NTR
+
+*Status:* Har tatt kontakt med NTR \\
+*Dato:* 17.01.2023 \\
+*Prioritering:* A \\
+
+Marianne skal gi beskjed når NTR får data fra Ullevål
+* Søker om tilgang til data fra NPR
+
+*Status:* \\
+*Dato:* \\
+*Prioritering:* \\
+* Utvikle indikatorer for løpende statistikk
+*Status:* \\
+*Dato:* \\
+*Prioritering:* \\
+
+Indikatorer er basert på FMDS skjema
+* Utvikle analysesystem for produksjon av løpende statistikk
+
+*Status:* \\
+*Dato:* \\
+*Prioritering:* \\
+* Preliminære analyser av FMDS data
+
+*Status:* \\
+*Dato:* \\
+*Prioritering:* \\
