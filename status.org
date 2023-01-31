@@ -6,7 +6,7 @@
 #+OPTIONS: toc:nil
 
 # Newline with different export option
-#+MACRO: NL @@latex:\\@@ @@html:<br>@@
+#+MACRO: NL @@latex:\\@@ @@html:<br>@@ @@md:\@@
 
 # Use Norwegian for Table of Contents
 #+LANGUAGE: no
