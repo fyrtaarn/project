@@ -62,7 +62,7 @@ REK-søknaden ble godkjent i desember 2022
 :year: 2023
 :END:
 
-*Status:* Sendt til PVO \\
+*Status:* Pågående \\
 *Dato:* 24.01.2023 \\
 *Prioritering:* A \\
 
@@ -73,7 +73,7 @@ Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 :year: 2023
 :END:
 
-*Status:* Sendt forslag til SVV \\
+*Status:* Pågående \\
 *Dato:* 24.01.2023 \\
 *Prioritering:* B \\
 
@@ -83,17 +83,17 @@ Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekr
 :year: 2023
 :END:
 
-*Status:* Har tatt kontakt med NTR \\
+*Status:* Pågående \\
 *Dato:* 17.01.2023 \\
 *Prioritering:* A \\
 
-Marianne skal gi beskjed når NTR får data fra Ullevål
+Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ullevål
 * Søker om tilgang til data fra NPR
 :PROPERTIES:
 :year: 2023
 :END:
 
-*Status:* \\
+*Status:* Ikke starte \\
 *Dato:* \\
 *Prioritering:* \\
 
@@ -105,7 +105,7 @@ Marianne skal gi beskjed når NTR får data fra Ullevål
 :PROPERTIES:
 :year: 2023
 :END:
-*Status:* \\
+*Status:* Pågående \\
 *Dato:* \\
 *Prioritering:* \\
 
@@ -115,7 +115,7 @@ Indikatorer er basert på FMDS skjema
 :year: 2023
 :END:
 
-*Status:* \\
+*Status:* Ikke starte\\
 *Dato:* \\
 *Prioritering:* \\
 
@@ -124,7 +124,7 @@ Indikatorer er basert på FMDS skjema
 :year: 2023
 :END:
 
-*Status:* \\
+*Status:* Ikke starte\\
 *Dato:* \\
 *Prioritering:* \\
 
