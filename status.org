@@ -28,6 +28,9 @@ Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
 /A, B eller C/ hvor /A/ er høyest og /C/ er lavest.
 
 * Prosjektprotokoll
+:PROPERTIES:
+:year: 2022
+:END:
 
 *Status:* Ferdig \\
 *Dato:* 2022 \\
@@ -45,6 +48,9 @@ Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
     - kompletthet
     - samsvar mellom NTR og politiregisteret
 * REK søknad
+:PROPERTIES:
+:year: 2022
+:END:
 
 *Status:* Ferdig \\
 *Dato:* 2022 \\
@@ -52,6 +58,9 @@ Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
 
 REK-søknaden ble godkjent i desember 2022
 * DPIA
+:PROPERTIES:
+:year: 2023
+:END:
 
 *Status:* Sendt til PVO \\
 *Dato:* 24.01.2023 \\
@@ -60,6 +69,9 @@ REK-søknaden ble godkjent i desember 2022
 Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 
 * Oppdragsavtale med SVV
+:PROPERTIES:
+:year: 2023
+:END:
 
 *Status:* Sendt forslag til SVV \\
 *Dato:* 24.01.2023 \\
@@ -67,6 +79,9 @@ Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 
 Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekrefetet mottat.
 * Anonyme data fra NTR
+:PROPERTIES:
+:year: 2023
+:END:
 
 *Status:* Har tatt kontakt med NTR \\
 *Dato:* 17.01.2023 \\
@@ -74,6 +89,9 @@ Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekr
 
 Marianne skal gi beskjed når NTR får data fra Ullevål
 * Søker om tilgang til data fra NPR
+:PROPERTIES:
+:year: 2023
+:END:
 
 *Status:* \\
 *Dato:* \\
@@ -84,18 +102,27 @@ Marianne skal gi beskjed når NTR får data fra Ullevål
 - Sjekk dato for publisering av aktuelle datagrunnlag i [[https://www.helsedirektoratet.no/tema/statistikk-registre-og-rapporter/helsedata-og-helseregistre/statistikkalender][statistikkalender]]
 
 * Utvikle indikatorer for løpende statistikk
+:PROPERTIES:
+:year: 2023
+:END:
 *Status:* \\
 *Dato:* \\
 *Prioritering:* \\
 
 Indikatorer er basert på FMDS skjema
 * Utvikle analysesystem for produksjon av løpende statistikk
+:PROPERTIES:
+:year: 2023
+:END:
 
 *Status:* \\
 *Dato:* \\
 *Prioritering:* \\
 
 * Preliminære analyser av FMDS data
+:PROPERTIES:
+:year: 2023
+:END:
 
 *Status:* \\
 *Dato:* \\
