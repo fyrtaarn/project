@@ -123,7 +123,8 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 *Sist endret:* \\
 *Prioritering:* \\
 
-Indikatorer er basert på FMDS skjema
+- Indikatorer er basert på FMDS skjema
+- Forslag til indikatorer finnes her [[https://github.com/fyrtaarn/indikator/blob/main/indikator.org]]
 * Utvikle analysesystem for produksjon av løpende statistikk :2023:
 :PROPERTIES:
 :year: 2023
@@ -142,4 +143,16 @@ Indikatorer er basert på FMDS skjema
 *Sist endret:* \\
 *Prioritering:* \\
 
+- Forberedelse til data rensing og analyser
 
+* Litteratur oppdatering :2023:
+:PROPERTIES:
+:year: 2023
+:END:
+
+*Status:* Ikke starte\\
+*Sist endret:* \\
+*Prioritering:* \\
+
+- Søk relevante litteratur på feltet
+- Lag bibliotek
