@@ -23,6 +23,8 @@
 
 #+LATEX_HEADER: \usepackage[left=3cm, right=2.5cm]{geometry}
 
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/general.css">
+
 Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
 *Status* kan være /Ferdig, Pågående eller Ikke starte/. *Prioritering* kan være
 /A, B eller C/ hvor /A/ er høyest og /C/ er lavest.
@@ -33,7 +35,7 @@ Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
 :END:
 
 *Status:* Ferdig \\
-*Dato:* 2022 \\
+*Sist endret:* 2022 \\
 *Prioritering:* A \\
 
 - Utarbeidet prosjektprotokoll
@@ -53,7 +55,7 @@ Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
 :END:
 
 *Status:* Ferdig \\
-*Dato:* 2022 \\
+*Sist endret:* 2022 \\
 *Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
@@ -63,7 +65,7 @@ REK-søknaden ble godkjent i desember 2022
 :END:
 
 *Status:* Pågående \\
-*Dato:* 24.01.2023 \\
+*Sist endret:* 24.01.2023 \\
 *Prioritering:* A \\
 
 Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
@@ -74,7 +76,7 @@ Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 :END:
 
 *Status:* Pågående \\
-*Dato:* 24.01.2023 \\
+*Sist endret:* 24.01.2023 \\
 *Prioritering:* B \\
 
 Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekrefetet mottat.
@@ -84,7 +86,7 @@ Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekr
 :END:
 
 *Status:* Pågående \\
-*Dato:* 17.01.2023 \\
+*Sist endret:* 17.01.2023 \\
 *Prioritering:* A \\
 
 Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ullevål
@@ -94,7 +96,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :END:
 
 *Status:* Ikke starte \\
-*Dato:* \\
+*Sist endret:* \\
 *Prioritering:* \\
 
 - Søknad for tilgang til data må gjøres 3 - 4 uker før ønsket leveringstidspunkt.
@@ -106,7 +108,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 *Status:* Pågående \\
-*Dato:* \\
+*Sist endret:* \\
 *Prioritering:* \\
 
 Indikatorer er basert på FMDS skjema
@@ -116,7 +118,7 @@ Indikatorer er basert på FMDS skjema
 :END:
 
 *Status:* Ikke starte\\
-*Dato:* \\
+*Sist endret:* \\
 *Prioritering:* \\
 
 * Preliminære analyser av FMDS data
@@ -125,7 +127,7 @@ Indikatorer er basert på FMDS skjema
 :END:
 
 *Status:* Ikke starte\\
-*Dato:* \\
+*Sist endret:* \\
 *Prioritering:* \\
 
 
