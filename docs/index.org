@@ -39,7 +39,7 @@
 
 Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI
 har ansvar for. *Status* for hver aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(green, Pågående)}}}/ eller
-/{{{color(red, Ikke begynt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
+/{{{color(red, Ikke påbegynt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
 og /C/ er lavest.
 
 * Prosjektprotokoll :2022:
@@ -108,7 +108,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* {{{color(red, Ikke begynt)}}} \\
+*Status:* {{{color(red, Ikke påbegynt)}}} \\
 *Sist endret:* \\
 *Prioritering:* \\
 
@@ -131,7 +131,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* {{{color(red, Ikke begynt)}}} \\
+*Status:* {{{color(red, Ikke påbegynt)}}} \\
 *Sist endret:* \\
 *Prioritering:* \\
 
@@ -140,7 +140,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* {{{color(red, Ikke begynt)}}} \\
+*Status:* {{{color(red, Ikke påbegynt)}}} \\
 *Sist endret:* \\
 *Prioritering:* \\
 
