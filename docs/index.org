@@ -1,5 +1,5 @@
-#+title: Aktiviteter i Fyrtårnprosjektet for FHI
-#+subtitle: Status oppdatering
+#+title: Status Oppdatering:
+#+subtitle: Aktiviteter i Fyrtårnprosjektet for FHI
 #+author:
 
 
