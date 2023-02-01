@@ -1,9 +1,7 @@
-#+title: Aktiviteter i Fyrtårnprosjekte for FHI
+#+title: Aktiviteter i Fyrtårnprosjektet for FHI
 #+subtitle: Status oppdatering
 #+author:
-#+date: \today
 
-#+OPTIONS: toc:nil
 
 # Newline with different export option
 #+MACRO: NL @@latex:\\@@ @@html:<br>@@ @@md:\@@
@@ -23,11 +21,24 @@
 
 #+LATEX_HEADER: \usepackage[left=3cm, right=2.5cm]{geometry}
 
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/general.css">
+# Use CSS or standard theme from https://github.com/fniessen/org-html-themes
+# #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style/general.css">
 
-Liste over aktiviteter relatert til Fyrtårnprosjekte som FHI har ansvar for.
-*Status* kan være /Ferdig, Pågående eller Ikke starte/. *Prioritering* kan være
-/A, B eller C/ hvor /A/ er høyest og /C/ er lavest.
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+#+OPTIONS: html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/readtheorg_theme/css/htmlize.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/readtheorg_theme/css/readtheorg.css"/>
+
+#+HTML_HEAD: <script type="text/javascript" src="src/lib/js/jquery.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="src/lib/js/bootstrap.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="src/lib/js/jquery.stickytableheaders.min.js"></script>
+#+HTML_HEAD: <script type="text/javascript" src="src/readtheorg_theme/js/readtheorg.js"></script>
+
+Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI
+har ansvar for. *Status* for hver aktivitet kan være /Ferdig, Pågående/ eller
+/Ikke starte/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
+og /C/ er lavest.
 
 * Prosjektprotokoll
 :PROPERTIES:
