@@ -35,10 +35,11 @@
 #+HTML_HEAD: <script type="text/javascript" src="src/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="src/readtheorg_theme/js/readtheorg.js"></script>
 
+#+MACRO: color @@html:<span style="color: $1">$2</span>@@@@latex:\textcolor{$1}{$2}@@@@odt:<text:span text:style-name="$1">$2</text:span>@@
 
 Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI
-har ansvar for. *Status* for hver aktivitet kan være /Ferdig, Pågående/ eller
-/Ikke starte/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
+har ansvar for. *Status* for hver aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(green, Pågående)}}}/ eller
+/{{{color(red, Ikke begynt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
 og /C/ er lavest.
 
 * Prosjektprotokoll :2022:
@@ -46,7 +47,7 @@ og /C/ er lavest.
 :year: 2022
 :END:
 
-*Status:* Ferdig \\
+*Status:* {{{color(blue, Ferdig)}}} \\
 *Sist endret:* 2022 \\
 *Prioritering:* A \\
 
@@ -66,7 +67,7 @@ og /C/ er lavest.
 :year: 2022
 :END:
 
-*Status:* Ferdig \\
+*Status:* {{{color(blue, Ferdig)}}} \\
 *Sist endret:* 2022 \\
 *Prioritering:* A \\
 
@@ -76,7 +77,7 @@ REK-søknaden ble godkjent i desember 2022
 :year: 2023
 :END:
 
-*Status:* Pågående \\
+*Status:* {{{color(#07b504, Pågående)}}} \\
 *Sist endret:* 24.01.2023 \\
 *Prioritering:* A \\
 
@@ -87,7 +88,7 @@ Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 :year: 2023
 :END:
 
-*Status:* Pågående \\
+*Status:* {{{color(green, Pågående)}}} \\
 *Sist endret:* 24.01.2023 \\
 *Prioritering:* B \\
 
@@ -97,7 +98,7 @@ Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekr
 :year: 2023
 :END:
 
-*Status:* Pågående \\
+*Status:* {{{color(green, Pågående)}}} \\
 *Sist endret:* 17.01.2023 \\
 *Prioritering:* A \\
 
@@ -107,7 +108,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* Ikke starte \\
+*Status:* {{{color(red, Ikke begynt)}}} \\
 *Sist endret:* \\
 *Prioritering:* \\
 
@@ -119,7 +120,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :PROPERTIES:
 :year: 2023
 :END:
-*Status:* Pågående \\
+*Status:* {{{color(green, Pågående)}}} \\
 *Sist endret:* \\
 *Prioritering:* \\
 
@@ -130,7 +131,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* Ikke starte\\
+*Status:* {{{color(red, Ikke begynt)}}} \\
 *Sist endret:* \\
 *Prioritering:* \\
 
@@ -139,7 +140,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* Ikke starte\\
+*Status:* {{{color(red, Ikke begynt)}}} \\
 *Sist endret:* \\
 *Prioritering:* \\
 
@@ -150,7 +151,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* Ikke starte\\
+*Status:* {{{color(green, Pågående)}}}\\
 *Sist endret:* \\
 *Prioritering:* \\
 
