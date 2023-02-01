@@ -2,6 +2,7 @@
 #+subtitle: Aktiviteter i Fyrtårnprosjektet for FHI
 #+author:
 
+# #+OPTIONS: toc:nil
 
 # Newline with different export option
 #+MACRO: NL @@latex:\\@@ @@html:<br>@@ @@md:\@@
