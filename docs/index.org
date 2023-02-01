@@ -38,7 +38,7 @@
 #+MACRO: color @@html:<span style="color: $1">$2</span>@@@@latex:\textcolor{$1}{$2}@@@@odt:<text:span text:style-name="$1">$2</text:span>@@
 
 Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI
-har ansvar for. *Status* for hver aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(green, Pågående)}}}/ eller
+har ansvar for. *Status* for hver aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(#07b504, Pågående)}}}/ eller
 /{{{color(red, Ikke påbegynt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
 og /C/ er lavest.
 
@@ -88,7 +88,7 @@ Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 :year: 2023
 :END:
 
-*Status:* {{{color(green, Pågående)}}} \\
+*Status:* {{{color(#07b504, Pågående)}}} \\
 *Sist endret:* 24.01.2023 \\
 *Prioritering:* B \\
 
@@ -98,7 +98,7 @@ Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekr
 :year: 2023
 :END:
 
-*Status:* {{{color(green, Pågående)}}} \\
+*Status:* {{{color(#07b504, Pågående)}}} \\
 *Sist endret:* 17.01.2023 \\
 *Prioritering:* A \\
 
@@ -120,7 +120,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :PROPERTIES:
 :year: 2023
 :END:
-*Status:* {{{color(green, Pågående)}}} \\
+*Status:* {{{color(#07b504, Pågående)}}} \\
 *Sist endret:* \\
 *Prioritering:* \\
 
@@ -151,7 +151,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* {{{color(green, Pågående)}}}\\
+*Status:* {{{color(#07b504, Pågående)}}}\\
 *Sist endret:* \\
 *Prioritering:* \\
 
