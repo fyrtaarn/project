@@ -1,4 +1,4 @@
-#+title: Status Oppdatering:
+#+title: @@html:<img src="img/fhi-logo.png" alt="" / width="100px" align="right"> <br><br>@@  Status Oppdatering:
 #+subtitle: Aktiviteter i Fyrtårnprosjektet for FHI
 #+author:
 
@@ -35,12 +35,13 @@
 #+HTML_HEAD: <script type="text/javascript" src="src/lib/js/jquery.stickytableheaders.min.js"></script>
 #+HTML_HEAD: <script type="text/javascript" src="src/readtheorg_theme/js/readtheorg.js"></script>
 
+
 Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI
 har ansvar for. *Status* for hver aktivitet kan være /Ferdig, Pågående/ eller
 /Ikke starte/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
 og /C/ er lavest.
 
-* Prosjektprotokoll
+* Prosjektprotokoll :2022:
 :PROPERTIES:
 :year: 2022
 :END:
@@ -60,7 +61,7 @@ og /C/ er lavest.
   - Vurdering av datakvalitet
     - kompletthet
     - samsvar mellom NTR og politiregisteret
-* REK søknad
+* REK søknad :2022:
 :PROPERTIES:
 :year: 2022
 :END:
@@ -70,7 +71,7 @@ og /C/ er lavest.
 *Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
-* DPIA
+* DPIA :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -81,7 +82,7 @@ REK-søknaden ble godkjent i desember 2022
 
 Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 
-* Oppdragsavtale med SVV
+* Oppdragsavtale med SVV :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -91,7 +92,7 @@ Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 *Prioritering:* B \\
 
 Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekrefetet mottat.
-* Anonyme data fra NTR
+* Anonyme data fra NTR :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -101,7 +102,7 @@ Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekr
 *Prioritering:* A \\
 
 Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ullevål
-* Søker om tilgang til data fra NPR
+* Søker om tilgang til data fra NPR :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -114,7 +115,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 - Søknadsskjema er tilgjengelig på [[https://www.altinn.no][https://www.altinn.no]] og henvise til Helsedirektoratets saksnummer
 - Sjekk dato for publisering av aktuelle datagrunnlag i [[https://www.helsedirektoratet.no/tema/statistikk-registre-og-rapporter/helsedata-og-helseregistre/statistikkalender][statistikkalender]]
 
-* Utvikle indikatorer for løpende statistikk
+* Utvikle indikatorer for løpende statistikk :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -123,7 +124,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 *Prioritering:* \\
 
 Indikatorer er basert på FMDS skjema
-* Utvikle analysesystem for produksjon av løpende statistikk
+* Utvikle analysesystem for produksjon av løpende statistikk :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -132,7 +133,7 @@ Indikatorer er basert på FMDS skjema
 *Sist endret:* \\
 *Prioritering:* \\
 
-* Preliminære analyser av FMDS data
+* Preliminære analyser av FMDS data :2023:
 :PROPERTIES:
 :year: 2023
 :END:

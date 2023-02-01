@@ -791,6 +791,7 @@ hr{
 }
 
 #table-of-contents h2{
+    background: url("fhi-logo.png");
     z-index:200;
     background-color:#2980B9;
     text-align:center;
