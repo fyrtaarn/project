@@ -1,10 +1,9 @@
+#+HTML_HEAD: <title>Fyrtårn</title>
 #+title: @@html:<img src="img/fhi-logo.png" alt="" / width="100px" align="right"> <br><br>@@  Status Oppdatering:
 #+subtitle: Aktiviteter i Fyrtårnprosjektet for FHI
 #+author:
 
-#+HTML_HEAD: <title>Fyrtårn</title>
-
-# #+OPTIONS: toc:nil title:nil
+# #+OPTIONS: toc:nil
 
 # Newline with different export option
 #+MACRO: NL @@latex:\\@@ @@html:<br>@@ @@md:\@@
