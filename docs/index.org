@@ -104,7 +104,7 @@ Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekr
 *Prioritering:* A \\
 
 Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ullevål
-* Søker om tilgang til data fra NPR :2023:
+* Søknad om tilgang til data fra NPR :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -113,7 +113,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 *Sist endret:* \\
 *Prioritering:* \\
 
-- Søknad for tilgang til data må gjøres 3 - 4 uker før ønsket leveringstidspunkt.
+- Søknad om tilgang til data må gjøres 3 - 4 uker før ønsket leveringstidspunkt.
 - Søknadsskjema er tilgjengelig på [[https://www.altinn.no][https://www.altinn.no]] og henvise til Helsedirektoratets saksnummer
 - Sjekk dato for publisering av aktuelle datagrunnlag i [[https://www.helsedirektoratet.no/tema/statistikk-registre-og-rapporter/helsedata-og-helseregistre/statistikkalender][statistikkalender]]
 
