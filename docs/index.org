@@ -4,7 +4,7 @@
 
 #+HTML_HEAD: <title>Fyrtårn</title>
 
-# #+OPTIONS: toc:nil
+# #+OPTIONS: toc:nil title:nil
 
 # Newline with different export option
 #+MACRO: NL @@latex:\\@@ @@html:<br>@@ @@md:\@@
