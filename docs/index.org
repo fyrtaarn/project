@@ -2,6 +2,8 @@
 #+subtitle: Aktiviteter i Fyrtårnprosjektet for FHI
 #+author:
 
+#+HTML_HEAD: <title>Fyrtårn</title>
+
 # #+OPTIONS: toc:nil
 
 # Newline with different export option
