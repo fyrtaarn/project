@@ -196,8 +196,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 - Søk relevante litteratur på feltet
 - Lage bibliotek
 - Søk om indikator system som finnes i andre land innenfor skadefeltet
-* Temaside for FHI
-
+* Temaside FHI hjemmeside :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -206,5 +205,6 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 *Sist endret:* \\
 *Prioritering:* C\\
 
-- Tak kontakt med Kommunikasjon avd. om hvordan dette skal tilrettelegges.
+- FHI har en temaside for [[https://www.fhi.no/hn/skader/][Skader og ulykker]] som relevant for prosjektet.
+- Ta kontakt med Kommunikasjon avd. om hvordan dette skal tilrettelegges.
   Kontaktperson: [[http://minside.fhi.no/Person.aspx?accountname=FHI%5CERBU][Erik Bull-Valen]].
