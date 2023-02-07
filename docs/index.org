@@ -94,7 +94,8 @@ Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 *Sist endret:* 24.01.2023 \\
 *Prioritering:* B \\
 
-Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan, men har ikke fått bekrefetet mottat.
+- Vi har hatt et første møte, og FHI har utarbeidet et utkast til samarbeidsavtale.
+- Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan og venter for tilbakemelding.
 * Anonyme data fra NTR :2023:
 :PROPERTIES:
 :year: 2023
@@ -114,17 +115,52 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 *Sist endret:* \\
 *Prioritering:* \\
 
-- Søknad om tilgang til data må gjøres 3 - 4 uker før ønsket leveringstidspunkt.
-- Søknadsskjema er tilgjengelig på [[https://www.altinn.no][https://www.altinn.no]] og henvise til Helsedirektoratets saksnummer
-- Sjekk dato for publisering av aktuelle datagrunnlag i [[https://www.helsedirektoratet.no/tema/statistikk-registre-og-rapporter/helsedata-og-helseregistre/statistikkalender][statistikkalender]]
+- Flere møter med Helsedirektoratet for å avklare behov for en eventuell
+  samarbeidsavtale.
+
+- Enighet om at det ikke er behov for å lage en egen samarbeidsavtale, men at
+  tilgjengeliggjøringen av dataene vil være styrt av vedtak med hjemmel i
+  helseregisterloven og tilhørende forskrifter.
+
+- Det er enighet om følgende søknadsprosedyrer:
+
+*Første søknad:*
+
+- FHI sender søknad om utlevering av data (omfatter både aktivitetsdata
+  somatikk og FMDS). Søknaden vil gjelde for første utlevering samt rullerende
+  datautleveringer i løpet av prosjektperioden
+
+- Hdir fatter vedtak som også vil dekke rullerende datautleveringer.
+
+- Søknadstiden vil være 30 – 60 dager fra en fullstendig søknad er mottatt.
+
+
+*Rullerende datautleveringer:*
+- Data vil bli utlevert tertialvis. Dette gjelder både for aktivitetsdata somatikk og data fra FMDS.
+
+- Aktivitetsdata somatikk kan utleveres når Helsedirektoratet selv har
+  publisert disse, jf. Statistikkalenderen. Sjekk dato for publisering av
+  aktuelle datagrunnlag i [[https://www.helsedirektoratet.no/tema/statistikk-registre-og-rapporter/helsedata-og-helseregistre/statistikkalender][statistikkalender]].
+
+- Tentative publiseringsdatoer for aktivitetsdata somatikk er /mars/ (tall for
+  hele året før, inkl. tredje tertial), /juni/ (første tertial gjeldende år) og
+  /oktober/ (andre tertial gjeldende år).
+
+- Data fra FMDS vil utleveres samtidig med aktivitetsdata somatikk, dvs. hvert tertial.
+
+- De rullerende datautleveringene vil få en fast saksbehandler og vil bli prioritert.
+
+- Saksbehandlingstiden er 3-4 uker. FHI fyller ut søknadsskjema i
+  [[https://www.altinn.no][https://www.altinn.no]] 3-4 uker før ønsket leveringstidspunkt og henvise til
+  Helsedirektoratets saksnummer.
 
 * Utvikle indikatorer for løpende statistikk :2023:
 :PROPERTIES:
 :year: 2023
 :END:
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* \\
-*Prioritering:* \\
+*Sist endret:* 15.12.2022 \\
+*Prioritering:* A\\
 
 - Indikatorer er basert på FMDS skjema
 - Forslag til indikatorer finnes her [[https://github.com/fyrtaarn/indikator/blob/main/indikator.org]]
@@ -135,7 +171,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 *Status:* {{{color(red, Ikke påbegynt)}}} \\
 *Sist endret:* \\
-*Prioritering:* \\
+*Prioritering:* C\\
 
 * Preliminære analyser av FMDS data :2023:
 :PROPERTIES:
@@ -144,7 +180,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 *Status:* {{{color(red, Ikke påbegynt)}}} \\
 *Sist endret:* \\
-*Prioritering:* \\
+*Prioritering:* B\\
 
 - Forberedelse til data rensing og analyser
 
@@ -155,7 +191,20 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 *Status:* {{{color(#07b504, Pågående)}}}\\
 *Sist endret:* \\
-*Prioritering:* \\
+*Prioritering:* C\\
 
 - Søk relevante litteratur på feltet
-- Lag bibliotek
+- Lage bibliotek
+- Søk om indikator system som finnes i andre land innenfor skadefeltet
+* Temaside for FHI
+
+:PROPERTIES:
+:year: 2023
+:END:
+
+*Status:* {{{color(red, Ikke påbegynt)}}} \\
+*Sist endret:* \\
+*Prioritering:* C\\
+
+- Tak kontakt med Kommunikasjon avd. om hvordan dette skal tilrettelegges.
+  Kontaktperson: [[http://minside.fhi.no/Person.aspx?accountname=FHI%5CERBU][Erik Bull-Valen]].
