@@ -46,7 +46,11 @@ har ansvar for. *Status* for hver aktivitet kan være /{{{color(blue, Ferdig)}}}
 /{{{color(red, Ikke påbegynt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
 og /C/ er lavest.
 
-* Årgangen 2022
+* 2022-årgangen
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
 ** Prosjektprotokoll :2022:
 :PROPERTIES:
 :year: 2022
@@ -77,7 +81,11 @@ og /C/ er lavest.
 *Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
-* Årgangen 2023
+* 2023-årgangen
+:PROPERTIES:
+:UNNUMBERED: t
+:END:
+
 ** DPIA :2023:
 :PROPERTIES:
 :year: 2023
