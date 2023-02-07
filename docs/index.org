@@ -3,7 +3,7 @@
 #+subtitle: Aktiviteter i Fyrtårnprosjektet for FHI
 #+author:
 
-# #+OPTIONS: toc:nil
+#+OPTIONS: num:2
 
 # Newline with different export option
 #+MACRO: NL @@latex:\\@@ @@html:<br>@@ @@md:\@@
@@ -39,12 +39,15 @@
 
 #+MACRO: color @@html:<span style="color: $1">$2</span>@@@@latex:\textcolor{$1}{$2}@@@@odt:<text:span text:style-name="$1">$2</text:span>@@
 
+#+INCLUDE: "back-to-top.html" export html
+
 Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI
 har ansvar for. *Status* for hver aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(#07b504, Pågående)}}}/ eller
 /{{{color(red, Ikke påbegynt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
 og /C/ er lavest.
 
-* Prosjektprotokoll :2022:
+* Årgangen 2022
+** Prosjektprotokoll :2022:
 :PROPERTIES:
 :year: 2022
 :END:
@@ -64,7 +67,7 @@ og /C/ er lavest.
   - Vurdering av datakvalitet
     - kompletthet
     - samsvar mellom NTR og politiregisteret
-* REK søknad :2022:
+** REK søknad :2022:
 :PROPERTIES:
 :year: 2022
 :END:
@@ -74,7 +77,8 @@ og /C/ er lavest.
 *Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
-* DPIA :2023:
+* Årgangen 2023
+** DPIA :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -85,7 +89,7 @@ REK-søknaden ble godkjent i desember 2022
 
 Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 
-* Oppdragsavtale med SVV :2023:
+** Oppdragsavtale med SVV :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -96,7 +100,7 @@ Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 
 - Vi har hatt et første møte, og FHI har utarbeidet et utkast til samarbeidsavtale.
 - Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan og venter for tilbakemelding.
-* Anonyme data fra NTR :2023:
+** Anonyme data fra NTR :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -106,7 +110,7 @@ Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
 *Prioritering:* A \\
 
 Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ullevål
-* Søknad om tilgang til data fra NPR :2023:
+** Søknad om tilgang til data fra NPR :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -154,7 +158,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
   [[https://www.altinn.no][https://www.altinn.no]] 3-4 uker før ønsket leveringstidspunkt og henvise til
   Helsedirektoratets saksnummer.
 
-* Utvikle indikatorer for løpende statistikk :2023:
+** Utvikle indikatorer for løpende statistikk :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -164,7 +168,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 - Indikatorer er basert på FMDS skjema
 - Forslag til indikatorer finnes her [[https://github.com/fyrtaarn/indikator/blob/main/indikator.org]]
-* Utvikle analysesystem for produksjon av løpende statistikk :2023:
+** Utvikle analysesystem for produksjon av løpende statistikk :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -173,7 +177,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 *Sist endret:* \\
 *Prioritering:* C\\
 
-* Preliminære analyser av FMDS data :2023:
+** Preliminære analyser av FMDS data :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -184,7 +188,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 - Forberedelse til data rensing og analyser
 
-* Litteratur oppdatering :2023:
+** Litteratur oppdatering :2023:
 :PROPERTIES:
 :year: 2023
 :END:
@@ -196,7 +200,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 - Søk relevante litteratur på feltet
 - Lage bibliotek
 - Søk om indikator system som finnes i andre land innenfor skadefeltet
-* Temaside FHI hjemmeside :2023:
+** Temaside FHI hjemmeside :2023:
 :PROPERTIES:
 :year: 2023
 :END:
