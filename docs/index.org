@@ -1,6 +1,7 @@
 #+HTML_HEAD: <title>Fyrtårn</title>
-#+title: @@html:<img src="img/fhi-logo.png" alt="" / width="100px" align="right"> <br><br>@@  Status Oppdatering:
-#+subtitle: Aktiviteter i Fyrtårnprosjektet for FHI
+#+HTML_HEAD:
+#+title: Fyrtårnprosjektet: @@html: <img src="img/fhi-logo.png" alt="" / width="100px" align="right">@@
+#+subtitle: Status oppdatering av aktiviteter
 #+author:
 
 
