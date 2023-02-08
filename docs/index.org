@@ -199,7 +199,8 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 - Søk relevante litteratur på feltet
 - Lage bibliotek
-- Søk om indikator system som finnes i andre land innenfor skadefeltet
+- Søk om indikator system som finnes i andre land innenfor skadefeltet. Noe av
+  de landene som ha et slik system er oppsummert på dette [[https://github.com/fyrtaarn/indikator/blob/main/indikator-andre.org][dokument]].
 ** Temaside FHI hjemmeside :2023:
 :PROPERTIES:
 :year: 2023
