@@ -43,9 +43,9 @@
 #+INCLUDE: "back-to-top.html" export html
 
 Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI
-har ansvar for. *Status* for hver aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(#07b504, Pågående)}}}/ eller
+har ansvar for. *Status* for hvert aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(#07b504, Pågående)}}}/ eller
 /{{{color(red, Ikke påbegynt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
-og /C/ er lavest.
+og /C/ er lavest. Listen er fordelt på årgang.
 
 * Innen 2022
 ** Prosjektprotokoll :2022:
