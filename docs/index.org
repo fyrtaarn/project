@@ -207,10 +207,11 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* {{{color(red, Ikke påbegynt)}}} \\
-*Sist endret:* \\
+*Status:* {{{color(#07b504, Pågående)}}}\\
+*Sist endret:* 21.02.2023 \\
 *Prioritering:* C\\
 
 - FHI har en temaside for [[https://www.fhi.no/hn/skader/][Skader og ulykker]] som relevant for prosjektet.
 - Ta kontakt med Kommunikasjon avd. om hvordan dette skal tilrettelegges.
   Kontaktperson: [[http://minside.fhi.no/Person.aspx?accountname=FHI%5CERBU][Erik Bull-Valen]].
+- Sendt henvendelse på e-post til Erik Bull-Valen 21.02.2023
