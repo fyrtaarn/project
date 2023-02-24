@@ -78,7 +78,7 @@ og /C/ er lavest. Listen er fordelt på årgang.
 *Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
-** Samarbeidsavtale med Hdir
+** Samarbeidsavtale med Hdir :2022:
 :PROPERTIES:
 :year: 2022
 :END:
