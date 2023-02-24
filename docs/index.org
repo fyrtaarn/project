@@ -78,6 +78,22 @@ og /C/ er lavest. Listen er fordelt på årgang.
 *Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
+** Samarbeidsavtale med Hdir
+:PROPERTIES:
+:year: 2022
+:END:
+
+*Status:* {{{color(blue, Ferdig)}}} \\
+*Sist endret:* 2022 \\
+*Prioritering:* A \\
+
+- Flere møter med Helsedirektoratet for å avklare behov for en eventuell
+  samarbeidsavtale.
+
+- Enighet om at det ikke er behov for å lage en egen samarbeidsavtale, men at
+  tilgjengeliggjøringen av dataene vil være styrt av vedtak med hjemmel i
+  helseregisterloven og tilhørende forskrifter.
+
 * Innen 2023
 ** DPIA :2023:
 :PROPERTIES:
