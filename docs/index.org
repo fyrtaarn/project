@@ -1,7 +1,7 @@
 #+HTML_HEAD: <title>Fyrtårn</title>
 #+HTML_HEAD:
 #+title: Fyrtårnprosjektet: @@html: <img src="img/fhi-logo.png" alt="" / width="100px" align="right">@@
-#+subtitle: Status oppdatering av aktiviteter
+#+subtitle: Statusoppdatering av aktiviteter
 #+author:
 
 
@@ -78,6 +78,22 @@ og /C/ er lavest. Listen er fordelt på årgang.
 *Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
+** Samarbeidsavtale med Hdir :2022:
+:PROPERTIES:
+:year: 2022
+:END:
+
+*Status:* {{{color(blue, Ferdig)}}} \\
+*Sist endret:* 2022 \\
+*Prioritering:* A \\
+
+- Flere møter med Helsedirektoratet for å avklare behov for en eventuell
+  samarbeidsavtale.
+
+- Enighet om at det ikke er behov for å lage en egen samarbeidsavtale, men at
+  tilgjengeliggjøringen av dataene vil være styrt av vedtak med hjemmel i
+  helseregisterloven og tilhørende forskrifter.
+
 * Innen 2023
 ** DPIA :2023:
 :PROPERTIES:
@@ -119,13 +135,6 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 *Status:* {{{color(red, Ikke påbegynt)}}} \\
 *Sist endret:* \\
 *Prioritering:* \\
-
-- Flere møter med Helsedirektoratet for å avklare behov for en eventuell
-  samarbeidsavtale.
-
-- Enighet om at det ikke er behov for å lage en egen samarbeidsavtale, men at
-  tilgjengeliggjøringen av dataene vil være styrt av vedtak med hjemmel i
-  helseregisterloven og tilhørende forskrifter.
 
 - Det er enighet om følgende søknadsprosedyrer:
 
