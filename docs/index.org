@@ -48,7 +48,7 @@ har ansvar for. *Status* for hvert aktivitet kan være /{{{color(blue, Ferdig)}}
 og /C/ er lavest. Listen er fordelt på årgang.
 
 * Innen 2022
-** Prosjektprotokoll :2022:
+** Prosjektprotokoll
 :PROPERTIES:
 :year: 2022
 :END:
@@ -68,7 +68,7 @@ og /C/ er lavest. Listen er fordelt på årgang.
   - Vurdering av datakvalitet
     - kompletthet
     - samsvar mellom NTR og politiregisteret
-** REK søknad :2022:
+** REK søknad
 :PROPERTIES:
 :year: 2022
 :END:
@@ -78,7 +78,7 @@ og /C/ er lavest. Listen er fordelt på årgang.
 *Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
-** Samarbeidsavtale med Hdir :2022:
+** Samarbeidsavtale med Hdir
 :PROPERTIES:
 :year: 2022
 :END:
@@ -95,7 +95,7 @@ REK-søknaden ble godkjent i desember 2022
   helseregisterloven og tilhørende forskrifter.
 
 * Innen 2023
-** DPIA :2023:
+** DPIA
 :PROPERTIES:
 :year: 2023
 :END:
@@ -112,7 +112,7 @@ vet dessverre ikke når det blir saksbehandlet, men det ligger høyt oppe på li
 til PVO
 #+end_quote
 
-** Oppdragsavtale med SVV :2023:
+** Oppdragsavtale med SVV
 :PROPERTIES:
 :year: 2023
 :END:
@@ -125,7 +125,7 @@ til PVO
 - Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan 24.01.2023.
 - Fikk svar fra Guro Ranes 22.03.2023 med få kommentar. Se hennes kommentar [[https://folkehelse.sharepoint.com/:w:/r/sites/2243/Delte%20dokumenter/DPIA%20og%20avtaler/SVV/Oppdragsavtale20230124_kommentar_fra_SVV.docx?d=w1716433366f24468a2db7a172c4a5ffa&csf=1&web=1&e=sED5d5][her]].
 
-** Anonyme data fra NTR :2023:
+** Anonyme data fra NTR
 :PROPERTIES:
 :year: 2023
 :END:
@@ -135,7 +135,7 @@ til PVO
 *Prioritering:* A \\
 
 Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ullevål
-** Søknad om tilgang til data fra NPR :2023:
+** Søknad om tilgang til data fra NPR
 :PROPERTIES:
 :year: 2023
 :END:
@@ -176,7 +176,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
   [[https://www.altinn.no][https://www.altinn.no]] 3-4 uker før ønsket leveringstidspunkt og henvise til
   Helsedirektoratets saksnummer.
 
-** Utvikle indikatorer for løpende statistikk :2023:
+** Utvikle indikatorer for løpende statistikk
 :PROPERTIES:
 :year: 2023
 :END:
@@ -186,7 +186,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 - Indikatorer er basert på FMDS skjema
 - Forslag til indikatorer finnes her [[https://github.com/fyrtaarn/indikator/blob/main/indikator.org]]
-** Utvikle analysesystem for produksjon av løpende statistikk :2023:
+** Utvikle analysesystem for produksjon av løpende statistikk
 :PROPERTIES:
 :year: 2023
 :END:
@@ -195,7 +195,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 *Sist endret:* \\
 *Prioritering:* C\\
 
-** Preliminære analyser av FMDS data :2023:
+** Preliminære analyser av FMDS data
 :PROPERTIES:
 :year: 2023
 :END:
@@ -206,7 +206,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 - Forberedelse til data rensing og analyser
 
-** Litteratur oppdatering :2023:
+** Litteratur oppdatering
 :PROPERTIES:
 :year: 2023
 :END:
@@ -219,7 +219,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 - Lage bibliotek
 - Søk om indikator system som finnes i andre land innenfor skadefeltet. Noe av
   de landene som ha et slik system er oppsummert på dette [[https://github.com/fyrtaarn/indikator/blob/main/indikator-andre.org][dokument]].
-** Temaside FHI hjemmeside :2023:
+** Temaside FHI hjemmeside
 :PROPERTIES:
 :year: 2023
 :END:
