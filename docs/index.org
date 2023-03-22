@@ -101,10 +101,16 @@ REK-søknaden ble godkjent i desember 2022
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 24.01.2023 \\
+*Sist endret:* 21.03.2023 \\
 *Prioritering:* A \\
 
-Søknaden er sendt videre til PVO av FAS. Vi venter på svar.
+- Søknaden er sendt videre til PVO av FAS 24.01.2023.
+- Eyvind tok kontakt med Siri Vatne (FAS) om status til søknaden 21.03.2023. Svaret vi fikk:
+#+begin_quote
+Det ble sendt videre til PVO få dager etter at dere sendte det inn til oss. Vi
+vet dessverre ikke når det blir saksbehandlet, men det ligger høyt oppe på lista
+til PVO
+#+end_quote
 
 ** Oppdragsavtale med SVV :2023:
 :PROPERTIES:
