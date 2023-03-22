@@ -118,11 +118,13 @@ til PVO
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 24.01.2023 \\
+*Sist endret:* 22.03.2023 \\
 *Prioritering:* B \\
 
 - Vi har hatt et første møte, og FHI har utarbeidet et utkast til samarbeidsavtale.
-- Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan og venter for tilbakemelding.
+- Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan 24.01.2023.
+- Fikk svar fra Guro Ranes 22.03.2023 med få kommentar. Se hennes kommentar [[https://folkehelse.sharepoint.com/:w:/r/sites/2243/Delte%20dokumenter/DPIA%20og%20avtaler/SVV/Oppdragsavtale20230124_kommentar_fra_SVV.docx?d=w1716433366f24468a2db7a172c4a5ffa&csf=1&web=1&e=sED5d5][her]].
+
 ** Anonyme data fra NTR :2023:
 :PROPERTIES:
 :year: 2023
