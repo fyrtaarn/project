@@ -302,12 +302,19 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}}\\
-*Sist endret:* 28.02.2023 \\
+*Sist endret:* 25.04.2023 \\
 *Prioritering:* C\\
 
+[28.02.2023]
 - FHI har en temaside for [[https://www.fhi.no/hn/skader/][Skader og ulykker]] som relevant for prosjektet.
 - Kontaktperson: [[http://minside.fhi.no/Person.aspx?accountname=FHI%5CKNBO][Knut Forr Børtnes]]
 - Har hatt møte med Knut Forr Børtnes og Julie Denise Whittle Johansen den 21.02.2023.
 - Nyhetsaker som er 3 år gamle eller mer skal tas ut fra Temaside.
 - Inneholdet til evt. temaside for Fyrtårnprosjektet skal være noe mer enn det i prosjektbeskrivelse.
 - Det er mulig å legge interaktiv figurer.
+
+[25.04.2023]
+- Alle skal gå gjennom artikkelene i temaside
+- Kommer med forslag til endring evt. splitter til flere artikler
+- Oppdatere dato
+- Tar bort gamle tall
