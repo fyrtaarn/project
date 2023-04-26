@@ -29,7 +29,7 @@
 
 # #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
-#+OPTIONS: html-style:nil
+#+OPTIONS: html-style:nil \n:t
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/readtheorg_theme/css/htmlize.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="src/readtheorg_theme/css/readtheorg.css"/>
 
@@ -101,7 +101,7 @@ REK-søknaden ble godkjent i desember 2022
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 21.03.2023 \\
+*Sist endret:* 25.04.2023 \\
 *Prioritering:* A \\
 
 - Søknaden er sendt videre til PVO av FAS 24.01.2023.
@@ -110,6 +110,83 @@ REK-søknaden ble godkjent i desember 2022
 Det ble sendt videre til PVO få dager etter at dere sendte det inn til oss. Vi
 vet dessverre ikke når det blir saksbehandlet, men det ligger høyt oppe på lista
 til PVO
+#+end_quote
+
+- Fikk svar fra PVO 25.04.2023
+
+#+begin_quote
+Tilbakemelding
+*RÅD FRA PERSONVERNOMBUDET I ANLEDNING PERSONVERNKONSEKVENSVURDERING FOR "Skader i Norge: analyse av data i Fyrtårnprosjektet"*
+
+Det er gjort en personvernkonsekvensvurdering for "Skader i Norge: analyse av
+data i Fyrtårnprosjektet". Det følgende er et råd fra personvernombudet ved FHI
+etter FHIs mal for personvernkonsekvensvurderinger. Rådet gis med grunnlag i
+personvernforordningen artikkel 35 nr.2. Det presiseres at
+personvernforordningen ikke legger en godkjennelsesmyndighet til
+personvernombudet. Det er likevel antatt at rådet fra personvernombudet bør
+tillegges vekt ved en evt. godkjennelse av personvernkonsekvensvurderingen.
+
+Personvernombudet har særlig sett på følgende forhold:
+
+- Behandlingen av personopplysninger, herunder dataflyt
+- Det rettslige grunnlag for behandlingen av personopplysninger
+- De registrertes rettigheter
+- Risikoanalyse og tiltak
+
+Personvernombudets råd
+
+Prosjektet er godt beskrevet når det gjelder hvordan de skal behandle
+personopplysninger, med noen unntak. Personvernombudet tilrår at
+personvernkonsekvensvurderingen godkjennes på følgende forutsetninger:
+
+Generelt forutsettes det at behandlingen skjer i tråd med vedtak fra REK og
+vedtak om utlevering fra dataeiere. Det mangler opplysninger om lagringstid i
+eProtokoll, i henhold til vedtaket fra REK: "Prosjektet er godkjent frem til
+31.12.2027. Etter prosjektslutt skal opplysningene oppbevares i fem år for
+dokumentasjonshensyn. Enhver tilgang til prosjektdataene skal da være knyttet
+til behovet for etterkontroll. Prosjektdata skal således ikke være tilgjengelig
+for prosjektet. Prosjektleder og forskningsansvarlig institusjon er ansvarlig
+for at opplysningene oppbevares indirekte personidentifiserbart i denne
+perioden, dvs. atskilt i en nøkkel- og en datafil. Etter disse fem årene skal
+data slettes eller anonymiseres. Vi gjør oppmerksom på at anonymisering kan være
+mer omfattende enn å kun slette koblingsnøkkelen, jf. Datatilsynets veileder om
+anonymiserings-teknikker."
+
+I henhold til krav fra SSB og øvrige personvernkrav skal institusjonen ha en
+oppdatert liste over personer som skal ha tilgang til datasettet. Det
+forutsettes at listen under "Følgende prosjektmedarbeidere vil ha tilgang til
+personopplysninger (navn/institusjon):" i eProtokoll til en hver tid er
+oppdatert.
+
+Det er oppgitt at det skal benyttes ca. 20 variabler fra politiets database over
+trafikkulukker med personskade. Samtidig er det opplyst at prosjektet får
+tilgang til data fra SSB. Det må klargjøres om det kun er SSB-data prosjektet
+skal benytte, eller om de også skal søkes politidirektoratet om utlevering av
+data /fritak for taushetsplikten som følger av politiregisterloven § 23, jf.
+politiregisterloven § 33. Det forutsettes at det er eller blir innhentet
+dispenasjon for uttrekk av slike opplysninger. REK har ikke myndighet til å
+frita for taushetsplikten for denne typen data. Informasjon om prosjektet på
+fhi.no bør informere om alle kildene det blir hentet data fra. Evt. vedtak om
+utlevering av data fra SSB og politidirektoratet må vedlegges eProtokoll, med
+orientering til godkjenner og personvernombudet når det foreligger.
+
+Lykke til med prosjektet!
+
+Med vennlig hilsen
+Kjersti Haugan
+Personvernombud (sign.)
+
+#+end_quote
+
+Søknaden kan leses her [[https://eprotokoll.ihelse.net/form/3618/706E027670DD1E53][https://eprotokoll.ihelse.net/form/3618/706E027670DD1E53]]
+
+Ta kontakt med FAS for å legge endringene foreslått av PVO. Referer mail fra Siri Vatne i FAS 25.04.2023
+
+#+begin_quote
+Jeg gjenåpner skjema for dere, så retter dere bare opp i de aktuelle feltene og
+sender det inn igjen. Vi sender da en PDF av det endelige skjema, som dere igjen
+sender til godkjenning hos godkjenner. Den samme PDF'en kan dere sende som
+vedlegg når dere søker om data hos registrene.
 #+end_quote
 
 ** Oppdragsavtale med SVV
