@@ -194,13 +194,14 @@ vedlegg når dere søker om data hos registrene.
 :year: 2023
 :END:
 
-*Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 22.03.2023 \\
+*Status:* {{{color(blue, Ferdig)}}} \\
+*Sist endret:* 03.05.2023 \\
 *Prioritering:* B \\
 
 - Vi har hatt et første møte, og FHI har utarbeidet et utkast til samarbeidsavtale.
 - Forslaget er sendt til Guro Ranes og Anne Mette Bjerkan 24.01.2023.
 - Fikk svar fra Guro Ranes 22.03.2023 med få kommentar. Se hennes kommentar [[https://folkehelse.sharepoint.com/:w:/r/sites/2243/Delte%20dokumenter/DPIA%20og%20avtaler/SVV/Oppdragsavtale20230124_kommentar_fra_SVV.docx?d=w1716433366f24468a2db7a172c4a5ffa&csf=1&web=1&e=sED5d5][her]].
+- Fikk signet avtale fra SVV og ligger nå i Sharepoint på denne [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/DPIA%20og%20avtaler/SVV/Signert%20oppdragsavtale%20SVV.pdf?csf=1&web=1&e=pPXdT0][linken]].
 
 ** Anonyme data fra NTR
 :PROPERTIES:
