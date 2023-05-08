@@ -112,6 +112,7 @@ vet dessverre ikke når det blir saksbehandlet, men det ligger høyt oppe på li
 til PVO
 #+end_quote
 
+*** 25.04.2023
 - Fikk svar fra PVO 25.04.2023
 
 #+begin_quote
@@ -180,6 +181,8 @@ Personvernombud (sign.)
 
 Søknaden kan leses her [[https://eprotokoll.ihelse.net/form/3618/706E027670DD1E53][https://eprotokoll.ihelse.net/form/3618/706E027670DD1E53]]
 
+*** 25.04.2023
+
 Ta kontakt med FAS for å legge endringene foreslått av PVO. Referer mail fra Siri Vatne i FAS 25.04.2023
 
 #+begin_quote
@@ -188,6 +191,8 @@ sender det inn igjen. Vi sender da en PDF av det endelige skjema, som dere igjen
 sender til godkjenning hos godkjenner. Den samme PDF'en kan dere sende som
 vedlegg når dere søker om data hos registrene.
 #+end_quote
+
+*** 05.05.2023
 
 Videre kommunikasjon og avklaring fra FAS 05.05.2023 er følgende:
 
