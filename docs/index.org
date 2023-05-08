@@ -233,6 +233,8 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 - Søknadstiden vil være 30 – 60 dager fra en fullstendig søknad er mottatt.
 
+- Variabler og kodeverk finnes hos [[https://helsedata.no/no/variabler/?page=search][helsedata.no]]
+
 
 *Rullerende datautleveringer:*
 - Data vil bli utlevert tertialvis. Dette gjelder både for aktivitetsdata somatikk og data fra FMDS.
