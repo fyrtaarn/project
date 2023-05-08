@@ -101,7 +101,7 @@ REK-søknaden ble godkjent i desember 2022
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 25.04.2023 \\
+*Sist endret:* 05.05.2023 \\
 *Prioritering:* A \\
 
 - Søknaden er sendt videre til PVO av FAS 24.01.2023.
@@ -189,7 +189,7 @@ sender til godkjenning hos godkjenner. Den samme PDF'en kan dere sende som
 vedlegg når dere søker om data hos registrene.
 #+end_quote
 
-Videre kommunikasjon og avklaring fra FAS er følgende:
+Videre kommunikasjon og avklaring fra FAS 05.05.2023 er følgende:
 
 #+begin_quote
 1.	PVO etterlyser informasjon om lagringstid i eProtokoll. Regner med at dette skal beskrives (helt til slutt) i tekstboksen "Gi en systematisk beskrivelse av databehandlingen i prosjektet" under fanen "Databehandling"? [[color:red][ Ja, det kan du gjøre.]] [[color:blue][OK, men hva er det konkret vi skal beskrive her? Regner med at vi ikke skal lime inn teksten fra REK-vedtaket her, men holder det å angi antall år data skal lagres (ut 2027, og deretter for ytterligere 5 år av dokumentasjonshensyn), eller ønsker PVO at vi beskriver hvordan denne lagringen skal gjøres (teknisk/organisatorisk)? I så fall, hva er standard praksis for forskningsprosjekter ved FHI for de 5 "REK-årene" der data ikke skal være tilgjengelige for prosjektet (der TSD ikke brukes)? Vil våre tilganger til forskningsmappen slettes (men hvem har da tilgang)? Lagres de i en egen/ny mappe på F som vi ikke har tilgang til? Eller i sikker sone?]] Det holder med lagringstid (31.12.2032). Selve sluttdatoen er allerede registrert. Trenger ikke skrive noe om det tekniske, da de lagres samme sted som de behandles. For forskningsfilmapper vil tilgang stenges, men med mulighet for gjenåpning dersom det er behov for det (kontrollhensyn).
