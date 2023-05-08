@@ -246,7 +246,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 
 - FHI sender søknad om utlevering av data (omfatter både aktivitetsdata
   somatikk og FMDS). Søknaden vil gjelde for første utlevering samt rullerende
-  datautleveringer i løpet av prosjektperioden. Link til søknaden er [[https://www.helsedirektoratet.no/tema/statistikk-registre-og-rapporter/helsedata-og-helseregistre/norsk-pasientregister-npr/sok-om-data-fra-npr][her]].
+  datautleveringer i løpet av prosjektperioden. Link til søknaden er [[https://www.helsedirektoratet.no/tema/statistikk-registre-og-rapporter/helsedata-og-helseregistre/norsk-pasientregister-npr/sok-om-data-fra-npr][her]]. Søknaden sendes via Altinn (avklart med Magnus K. Wass).
 
 - Hdir fatter vedtak som også vil dekke rullerende datautleveringer.
 
