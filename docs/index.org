@@ -217,9 +217,9 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :year: 2023
 :END:
 
-*Status:* {{{color(red, Ikke påbegynt)}}} \\
-*Sist endret:* \\
-*Prioritering:* \\
+*Status:* {{{color(#07b504, Pågående)}}} \\
+*Sist endret:* 08.05.2023 \\
+*Prioritering:* A \\
 
 - Det er enighet om følgende søknadsprosedyrer:
 
