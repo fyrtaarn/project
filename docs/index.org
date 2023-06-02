@@ -101,7 +101,7 @@ REK-søknaden ble godkjent i desember 2022
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 09.05.2023 \\
+*Sist endret:* 02.06.2023 \\
 *Prioritering:* A \\
 
 - Søknaden er sendt videre til PVO av FAS 24.01.2023.
@@ -210,6 +210,11 @@ Videre kommunikasjon fra Eyvind og avklaring fra FAS 05.05.2023 er følgende:
 *** Dato 09.05.2023
 Vi har sendt revidert søknaden som kan leses [[https://eprotokoll.ihelse.net/form/3618/706E027670DD1E53/preview][her]]
 
+*** Dato 02.06.2023
+DPIA er sendt til godkjenner via P360. Arbeidsbeskrivelse for arkivering til
+senere referanse finnes her [[http://opus.fhi.no/Kvalitetsdokumenter/04 St%C3%B8tte til forskning (FO)/Yte juridiske tjenester knyttet til forskning (JU)/Arbeidsbeskrivelse/FO-JU-AR-011.docx][Arkivering og godkjenning av DPIA i P360]].
+
+
 ** Oppdragsavtale med SVV
 :PROPERTIES:
 :year: 2023
@@ -256,7 +261,6 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 - Søknadstiden vil være 30 – 60 dager fra en fullstendig søknad er mottatt.
 
 - Variabler og kodeverk finnes hos [[https://helsedata.no/no/variabler/?page=search][helsedata.no]]
-
 
 *** Rullerende datautleveringer
 
