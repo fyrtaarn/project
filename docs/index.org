@@ -247,7 +247,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 06.06.2023 \\
+*Sist endret:* 06.08.2023 \\
 *Prioritering:* A \\
 
 - Det er enighet om følgende søknadsprosedyrer:
@@ -289,7 +289,12 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 Liste over variabler som skal søkes fra Skade og Somatikk data i NPR finne [[https://folkehelse.sharepoint.com/:x:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Variableliste_2023-05-09.xlsx?d=wf51e1afaa3614473b62a6247e79c02bc&csf=1&web=1&e=Stb5Hb][her]]
 
 *** Altinn
+*OBS!* Søknaden må sendes via [[https://helsedata.no/][helsedata.no]] og ikke via Altinn.
 Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
+
+*** Helsedata
+- Søknaden er sendt via [[https://helsedata.no/][helsedata.no]] 29.06.2023. Saksnummeret er *H-337*.
+- Fikk tilbakemelding 08.08.2023 om å gå revurdere variablene. Se [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/kommunikasjon_helsedata_2023-08-08.pdf?csf=1&web=1&e=7q6sfy][svaret]].
 
 ** Utvikle indikatorer for løpende statistikk
 :PROPERTIES:
