@@ -68,6 +68,7 @@ og /C/ er lavest. Listen er fordelt på årgang.
   - Vurdering av datakvalitet
     - kompletthet
     - samsvar mellom NTR og politiregisteret
+- Protokollen er tilgjengelig [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Protokoll%20og%20mal/Forskningsprotokoll.pdf?csf=1&web=1&e=WPIBWr][her]].
 ** REK søknad
 :PROPERTIES:
 :year: 2022
