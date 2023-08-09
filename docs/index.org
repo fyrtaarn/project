@@ -362,3 +362,51 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Nyhetsaker som er 3 år gamle eller mer skal tas ut fra Temaside.
 - Inneholdet til evt. temaside for Fyrtårnprosjektet skal være noe mer enn det i prosjektbeskrivelse.
 - Det er mulig å legge interaktiv figurer.
+* Innen 2024
+** Produksjon av rapporter tertialvis
+:PROPERTIES:
+:year:     2024
+:END:
+
+*Status:* {{{color(red, Ikke påbegynt)}}}\\
+*Sist endret:* 09.08.2023 \\
+*Prioritering:* A\\
+
+Utarbeidet rapport som skal utleveres til Statens vegvesen.
+
+** Produksjon av rapporter i Alvis
+:PROPERTIES:
+:year:     2024
+:END:
+
+*Status:* {{{color(red, Ikke påbegynt)}}}\\
+*Sist endret:* 09.08.2023 \\
+*Prioritering:* B\\
+
+Publisering av statistikk ved bruk av Alvis.
+
+** Representativ analyser
+:PROPERTIES:
+:year:     2024
+:END:
+
+*Status:* {{{color(red, Ikke påbegynt)}}}\\
+*Sist endret:* 09.08.2023 \\
+*Prioritering:* A\\
+
+** Ferdigstille artikkel
+:PROPERTIES:
+:year:     2024
+:END:
+
+*Status:* {{{color(red, Ikke påbegynt)}}}\\
+*Sist endret:* 09.08.2023 \\
+*Prioritering:* B\\
+** Søknad om tilgang til data for forskning
+:PROPERTIES:
+:year:     2024
+:END:
+
+*Status:* {{{color(red, Ikke påbegynt)}}}\\
+*Sist endret:* 09.08.2023 \\
+*Prioritering:* A\\
