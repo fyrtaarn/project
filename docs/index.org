@@ -10,7 +10,7 @@
 
 # Use Norwegian for Table of Contents
 #+LANGUAGE: no
-#+LATEX_HEADER: \usepackage[AUTO]{babel}
+#+LATEX_HEADER: \usepackage[Norsk]{babel}
 
 # Hide red color link in Table of Contents
 #+LATEX_HEADER: \hypersetup{colorlinks=true, linkcolor=black}
@@ -248,7 +248,7 @@ Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ulle
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 06.08.2023 \\
+*Sist endret:* 01.11.2023 \\
 *Prioritering:* A \\
 
 - Det er enighet om følgende søknadsprosedyrer:
@@ -295,7 +295,9 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 
 *** Helsedata
 - Søknaden er sendt via [[https://helsedata.no/][helsedata.no]] 29.06.2023. Saksnummeret er *H-337*.
-- Fikk tilbakemelding 08.08.2023 om å gå revurdere variablene. Se [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/kommunikasjon_helsedata_2023-08-08.pdf?csf=1&web=1&e=7q6sfy][svaret]].
+- Kommunikasjoner og relaterte dokumenter finne i denne [[https://folkehelse.sharepoint.com/:f:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet?csf=1&web=1&e=lQiLw8][mappe]].
+- Fikk tilbakemelding 08.08.2023 om å revurdere variablene. Se [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/kommunikasjon_helsedata_2023-08-08.pdf?csf=1&web=1&e=7q6sfy][svaret]].
+- Fikk vedtak til søknaden 01.11.2023 [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Vedtak%20tilgjengeliggj%C3%B8ring%20av%20helseopplysninger.pdf?csf=1&web=1&e=z5QeuA][vedtak-brev]]
 
 ** Utvikle indikatorer for løpende statistikk
 :PROPERTIES:
