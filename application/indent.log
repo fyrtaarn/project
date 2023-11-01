@@ -1,0 +1,31 @@
+INFO:  latexindent.pl version 3.20.1, 2023-01-07, a script to indent .tex files
+       latexindent.pl lives here: c:/Users/ybka/scoop/apps/miktex/current/texmfs/install/scripts/latexindent/
+       Tue Jan 31 09:28:21 2023
+       Reading input from STDIN
+INFO:  Processing switches:
+INFO:  Directory for backup files and indent.log:
+       .
+INFO:  Perl modules are being loaded from the following directories:
+       C:/Users/ybka/scoop/apps/perl/current/perl/lib/FindBin.pm
+       C:/Users/ybka/scoop/apps/perl/current/perl/vendor/lib/YAML/Tiny.pm
+       C:/Users/ybka/scoop/apps/perl/current/perl/lib/File/Copy.pm
+       C:/Users/ybka/scoop/apps/perl/current/perl/lib/File/Basename.pm
+       C:/Users/ybka/scoop/apps/perl/current/perl/lib/Getopt/Long.pm
+       C:/Users/ybka/scoop/apps/perl/current/perl/vendor/lib/File/HomeDir.pm
+INFO:  LatexIndent perl modules are being loaded from, for example:
+       c:/Users/ybka/scoop/apps/miktex/current/texmfs/install/scripts/latexindent/LatexIndent/Document.pm
+INFO:  YAML settings read: defaultSettings.yaml
+       Reading defaultSettings.yaml from c:/Users/ybka/scoop/apps/miktex/current/texmfs/install/scripts/latexindent/defaultSettings.yaml
+INFO:  YAML reading settings
+       Home directory is C:\Users\ybka
+       latexindent.pl didn't find indentconfig.yaml or .indentconfig.yaml
+       see all possible locations: https://latexindentpl.readthedocs.io/en/latest/sec-appendices.html#indentconfig-options)
+INFO:  Phase 1: searching for objects
+INFO:  Phase 2: finding surrounding indentation
+INFO:  Phase 3: indenting objects
+INFO:  Phase 4: final indentation check
+INFO:  Output routine:
+       Not outputting to file; see -w and -o switches for more options.
+       --------------
+INFO:  Please direct all communication/issues to:
+        https://github.com/cmhughes/latexindent.pl
