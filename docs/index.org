@@ -95,6 +95,8 @@ REK-søknaden ble godkjent i desember 2022
   tilgjengeliggjøringen av dataene vil være styrt av vedtak med hjemmel i
   helseregisterloven og tilhørende forskrifter.
 
+- Kommunikasjoner med Hdir bl.a kan leses [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/DPIA%20og%20avtaler/Hdir/Epost_fra_Hdir_til_referanse.pdf?csf=1&web=1&e=fihmv5][her]]
+
 * Innen 2023
 ** DPIA
 :PROPERTIES:
