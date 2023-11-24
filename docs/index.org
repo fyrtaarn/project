@@ -251,7 +251,7 @@ DPIA er godkjent.
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 13.11.2023 \\
+*Sist endret:* 24.11.2023 \\
 *Prioritering:* A \\
 
 - Det er enighet om følgende søknadsprosedyrer:
@@ -301,6 +301,7 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Kommunikasjoner og relaterte dokumenter finne i denne [[https://folkehelse.sharepoint.com/:f:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet?csf=1&web=1&e=lQiLw8][mappe]].
 - Fikk tilbakemelding 08.08.2023 om å revurdere variablene. Se [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/kommunikasjon_helsedata_2023-08-08.pdf?csf=1&web=1&e=7q6sfy][svaret]].
 - Fikk vedtak til søknaden 01.11.2023 [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Vedtak%20tilgjengeliggj%C3%B8ring%20av%20helseopplysninger.pdf?csf=1&web=1&e=z5QeuA][vedtak-brev]]
+- Fikk [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Faktura-Helsedataservice-20231124.pdf?csf=1&web=1&e=rrcUvY][faktura]] fra Helsedataservice kr 23 240,63 som er betalt med prosjekt 27021 (Fyrtårn).
 *** NPR og KPR
 - Fikk bekreftelse om mottatt kopi av vedtak om tilgjengeliggjøring av
   opplysninger fra Helsedataservice og søknaden 10.11.23. Se [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/NPR-KPR-saknumre-referanse.pdf?csf=1&web=1&e=RMETee][e-post]]
