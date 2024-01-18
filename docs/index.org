@@ -313,6 +313,9 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Avklart med Hdir at datautleveringen vil ikke medføre kostnader ([[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Datautlevering-uten-kostnader-epost.pdf?csf=1&web=1&e=KGGCvY][e-post]])
 - Kontaktperson hos Hdir er Thomas N. Heyeraas
 - Mottatt data 11.12.2023 og følgerbrev er [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/23_31310-7F%C3%B8lgebrev%20ved%20tilgjengeliggj%C3%B8ring%20av%20opplysninger%20fra%20KPR%20NPR%20og%20FMDS.pdf?csf=1&web=1&e=fRbZei][her]]
+  - Utvalget fra KPR, NPR og FMDS
+  - Nøkkelfilen for 1 199 607 personer og de med ugyldig fødselsnummer, =fodsNr_Gyldig=
+  - Data for 2022 samt 1 og 2 tertial for 2023
 - Kodebok er [[https://folkehelse.sharepoint.com/:x:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Kodebok_Skader_i_Norge.csv?d=w71525a1e9cf4416386360f4dab267197&csf=1&web=1&e=VVyMUN][her]]
 - Dataene ligger i forsningsmappe [[F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_][F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_]]
 
