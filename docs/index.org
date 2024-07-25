@@ -240,11 +240,13 @@ DPIA er godkjent.
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 17.01.2023 \\
+*Sist endret:* 06.07.2024 \\
 *Prioritering:* A \\
 
 - Har tatt kontakt med NTR og Marianne skal gi beskjed når NTR får data fra Ullevål
 - Sendt ønsket variabler til NTR med denne [[https://folkehelse.sharepoint.com/:w:/r/sites/2243/Delte%20dokumenter/Datakilder/NTR/ntr_anonym.docx?d=we00276a9c8df4f73983c4c7de42e66a5&csf=1&web=1&e=WA4C9d][spesifikasjonen]]
+- Sendt ny epost 23.05.2024 til NTR daglig leder (Veslemøy Nordset) om søknaden til anonyme data.
+- Fikk annonyme data 06.07.2024. Dataene ligger [[F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_\Data\01_raw\NTR]]
 ** Søknad om tilgang til data fra NPR
 :PROPERTIES:
 :year: 2023
