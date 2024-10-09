@@ -346,11 +346,12 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 :year: 2023
 :END:
 
-*Status:* {{{color(red, Ikke påbegynt)}}} \\
+*Status:* {{{color(#07b504, Pågående)}}} \\
 *Sist endret:* \\
-*Prioritering:* B\\
+*Prioritering:* A\\
 
 - Forberedelse til data rensing og analyser
+- Arbeid kan ses på [[https://github.com/fyrtaarn/analysis/tree/main/npr][Github]]
 
 ** Litteratur oppdatering
 :PROPERTIES:
@@ -394,11 +395,17 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 :year:     2024
 :END:
 
-*Status:* {{{color(red, Ikke påbegynt)}}}\\
-*Sist endret:* 09.08.2023 \\
+*Status:* {{{color(#07b504, Pågående)}}}\\
+*Sist endret:* 02.10.2024 \\
 *Prioritering:* A\\
 
 Utarbeidet rapport som skal utleveres til Statens vegvesen.
+*** Første tertial 2024
+- Rapporten ble sendt til Anne Mette Bjerkan den 02.10.2024
+- Rapporten er tilgjengelig her https://fyrtaarn.github.io/indikator/jan-apr-2024.html
+*** Andre tertial 2024
+- Søknad om tilgang til data er sendt til Helsedataservice den 09.10.2024
+
 
 ** Produksjon av rapporter i Alvis
 :PROPERTIES:
