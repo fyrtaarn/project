@@ -47,7 +47,7 @@ har ansvar for. *Status* for hvert aktivitet kan være /{{{color(blue, Ferdig)}}
 /{{{color(red, Ikke påbegynt)}}}/ eller /{{{color(#9b5c4c, Ikke aktuelt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
 og /C/ er lavest. Listen er fordelt på årgang.
 
-* Status 2022
+* Gjennomført
 ** Prosjektprotokoll
 :PROPERTIES:
 :year: 2022
@@ -97,7 +97,6 @@ REK-søknaden ble godkjent i desember 2022
 
 - Kommunikasjoner med Hdir bl.a kan leses [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/DPIA%20og%20avtaler/Hdir/Epost_fra_Hdir_til_referanse.pdf?csf=1&web=1&e=fihmv5][her]]
 
-* Status 2023
 ** DPIA
 :PROPERTIES:
 :year: 2023
@@ -248,6 +247,7 @@ DPIA er godkjent.
 - Sendt ny epost 23.05.2024 til NTR daglig leder (Veslemøy Nordset) om søknaden til anonyme data.
 - Fikk annonyme data 06.07.2024. Dataene ligger [[F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_\Data\01_raw\NTR]]
 - Det er ikke lenge aktuelt å bruke dataene fra NTR siden formålet med anonyme data fra NTR er å publisere noe mens man venter data fra NPR og KPR. Vi fikk data fra NPR samtidig som vi mottok anonyme data fra NTR.
+* Pågående
 ** Søknad om tilgang til data fra NPR
 :PROPERTIES:
 :year: 2023
@@ -322,7 +322,6 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Kodebok er [[https://folkehelse.sharepoint.com/:x:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Kodebok_Skader_i_Norge.csv?d=w71525a1e9cf4416386360f4dab267197&csf=1&web=1&e=VVyMUN][her]]
 - Dataene ligger i forsningsmappe [[F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_][F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_]]
 
-
 ** Utvikle indikatorer for løpende statistikk
 :PROPERTIES:
 :year: 2023
@@ -390,7 +389,6 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Nyhetsaker som er 3 år gamle eller mer skal tas ut fra Temaside.
 - Inneholdet til evt. temaside for Fyrtårnprosjektet skal være noe mer enn det i prosjektbeskrivelse.
 - Det er mulig å legge interaktiv figurer.
-* Status 2024
 ** Produksjon av rapporter tertialvis
 :PROPERTIES:
 :year:     2024
@@ -407,7 +405,7 @@ Utarbeidet rapport som skal utleveres til Statens vegvesen.
 *** Andre tertial 2024
 - Søknad om tilgang til data er sendt til Helsedataservice den 09.10.2024
 
-
+* Ikke påbegynt
 ** Produksjon av rapporter i Alvis
 :PROPERTIES:
 :year:     2024
