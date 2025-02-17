@@ -254,7 +254,7 @@ DPIA er godkjent.
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 11.12.2023 \\
+*Sist endret:* 11.07.2024 \\
 *Prioritering:* A \\
 
 - Det er enighet om følgende søknadsprosedyrer:
@@ -314,24 +314,25 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Sendt epost om avklaring at det ikke skal medføre kostnader for utlevering av
   data (se [[https://folkehelse.sharepoint.com/:w:/r/sites/2243/Delte%20dokumenter/Koordineringsgruppe/02_M%C3%B8te%2017.3.2023/1703023%20Referat%203.%20m%C3%B8te%20i%20koordineringsgruppen%20i%20Fyrt%C3%A5rnprosjektet.docx?d=w75f56e2611be4363936b180043cf8241&csf=1&web=1&e=WIbggT][referat]] fra møte i koordineringsgruppen)
 - Avklart med Hdir at datautleveringen vil ikke medføre kostnader ([[https://folkehelse.sharepoint.com/:b:/s/2243/EQwgSdfeCa5Ag36flX9oVtEBpOmcBxXR7CHKIwBenqv7Og?e=9WcKHv][e-post]])
-- Kontaktperson hos Hdir er Thomas N. Heyeraas
-- Mottatt data 11.12.2023 og følgerbrev er [[https://folkehelse.sharepoint.com/:b:/s/2243/EaIGg6iprwtLnDZM6be043IBXDAwC7uEg4DEv5cd2wUMrw?e=GZiZVr][her]]
-  - Utvalget fra KPR, NPR og FMDS
-  - Nøkkelfilen for 1 199 607 personer og de med ugyldig fødselsnummer, =fodsNr_Gyldig=
-  - Data for 2022 samt 1 og 2 tertial for 2023
+- Kontaktperson hos Avd. Registerkvalitet (gamle Hdir) er Thomas N. Heyeraas
 - Kodebok er [[https://folkehelse.sharepoint.com/:x:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Kodebok_Skader_i_Norge.csv?d=w71525a1e9cf4416386360f4dab267197&csf=1&web=1&e=VVyMUN][her]]
-- Dataene ligger i forsningsmappe [[F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_][F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_]]
+- Dataene ligger i forskningsmappe [[F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_][F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_]]
+- Mappe =../Data/01_raw= inneholder raw data sortert på dato de er mottatt.
+  Følgebrev finnes også i samme mappen.
 
 ** Utvikle indikatorer for løpende statistikk
 :PROPERTIES:
 :year: 2023
 :END:
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 15.12.2022 \\
+*Sist endret:* 01.10.2024 \\
 *Prioritering:* A\\
 
 - Indikatorer er basert på FMDS skjema
+- Indikatorer skal publiseres tertialvis og leveres til SVV.
 - Forslag til indikatorer finnes her [[https://github.com/fyrtaarn/indikator/blob/main/indikator.org]]
+- Ingen pulsering for indikatorer for 2023 siden Hdir har publisert rapporten for 2023 inkludert data for FMDS. Rapporten finnes [[https://www.fhi.no/publ/2024/personskadedata-2023/][her]]
+- Publisering for 1-kvartal finnes [[https://fyrtaarn.github.io/indikator/jan-apr-2024.html][her]]
 ** Utvikle analysesystem for produksjon av løpende statistikk
 :PROPERTIES:
 :year: 2023
