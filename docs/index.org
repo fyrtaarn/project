@@ -233,6 +233,15 @@ DPIA er godkjent.
 - Fikk svar fra Guro Ranes 22.03.2023 med få kommentar. Se hennes kommentar [[https://folkehelse.sharepoint.com/:w:/r/sites/2243/Delte%20dokumenter/DPIA%20og%20avtaler/SVV/Oppdragsavtale20230124_kommentar_fra_SVV.docx?d=w1716433366f24468a2db7a172c4a5ffa&csf=1&web=1&e=sED5d5][her]].
 - Fikk signet avtale fra SVV og ligger nå i Sharepoint på denne [[https://folkehelse.sharepoint.com/:b:/r/sites/2243/Delte%20dokumenter/DPIA%20og%20avtaler/SVV/Signert%20oppdragsavtale%20SVV.pdf?csf=1&web=1&e=pPXdT0][linken]].
 
+** Utvikle indikatorer for løpende statistikk
+:PROPERTIES:
+:year: 2023
+:END:
+*Status:* {{{color(blue, Ferdig)}}} \\
+*Sist endret:* 01.10.2024 \\
+*Prioritering:* A\\
+
+- Inkuldert som *vedlegg 2* i avtalen med SVV [[https://folkehelse.sharepoint.com/:b:/s/2243/EYzwy1FhqthPiuGnSLMAQtIBUfC5Mg25Aexe1s_T9y9Wdg?e=bCvNvC][her]]
 ** Anonyme data fra NTR
 :PROPERTIES:
 :year: 2023
@@ -248,13 +257,13 @@ DPIA er godkjent.
 - Fikk annonyme data 06.07.2024. Dataene ligger [[F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_\Data\01_raw\NTR]]
 - Det er ikke lenge aktuelt å bruke dataene fra NTR siden formålet med anonyme data fra NTR er å publisere noe mens man venter data fra NPR og KPR. Vi fikk data fra NPR samtidig som vi mottok anonyme data fra NTR.
 * Pågående
-** Søknad om tilgang til data fra NPR
+** Søknad om tilgang til data fra NPR og KPR
 :PROPERTIES:
 :year: 2023
 :END:
 
 *Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 11.07.2024 \\
+*Sist endret:* 02.12.2024 \\
 *Prioritering:* A \\
 
 - Det er enighet om følgende søknadsprosedyrer:
@@ -303,8 +312,12 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Søknaden er sendt via [[https://helsedata.no/][helsedata.no]] 29.06.2023. Saksnummeret er *H-337*.
 - Kommunikasjoner og relaterte dokumenter finne i denne [[https://folkehelse.sharepoint.com/:f:/s/2243/EhAEQDrhS0VMoGA2pXLcZ-4BWbFUpZIuaL-zjlCR2bAXSg?e=B30m3J][mappe]].
 - Fikk tilbakemelding 08.08.2023 om å revurdere variablene. Se [[https://folkehelse.sharepoint.com/:b:/s/2243/EVQ1x8JJTVVKn5MB5sh71MQBetyMMNXWil-GGbD0KuOcUA?e=bP68XI][svaret]].
-- Fikk vedtak til søknaden 01.11.2023 [[https://folkehelse.sharepoint.com/:b:/s/2243/ERW2V8IiDIlDhtuP8e9DPhgBtHhCWHIgKH0wULJuyGG3SQ?e=1x4Srz][vedtak-brev]]
 - Fikk [[https://folkehelse.sharepoint.com/:b:/s/2243/EdSJwsXEaXJBkcBQZMliFHEBgVN69xmXTyc1ETJqBlQKsg?e=nxVsUq][faktura]] fra Helsedataservice kr 23 240,63 som er betalt med prosjekt 27021 (Fyrtårn).
+
+**** Vedtak
+- Søknaden 29.06.2023 og fikk vedtak 01.11.2023 [[https://folkehelse.sharepoint.com/:b:/s/2243/ERW2V8IiDIlDhtuP8e9DPhgBtHhCWHIgKH0wULJuyGG3SQ?e=1x4Srz][vedtak-brev]] og revidert vedtak 14.11.2023 ([[https://folkehelse.sharepoint.com/:b:/s/2243/ESAV9SF8OmZNmZdDjbpl4Y0BF_EtJLC2rFB22hIkmq3OwQ?e=bdqqRd][brev]]). Dataene motatt 22.04.2024 for perioden 01.01.2022 til 31.12.2023
+- Søknaden 29.04.2024 og fikk vedtak 08.07.2024 ([[https://folkehelse.sharepoint.com/:b:/s/2243/ESoYdN_sE1tOqnXW4tp2ifgB1DU2q9LstjhZSvH7r00oPg?e=kJbuM8][brev]]). Dataene motatt 11.07.2024
+- Søknaden 09.10.2024 og fkkk vedtak 02.12.2024 ([[https://folkehelse.sharepoint.com/:b:/s/2243/EeCNwodOg_dMlrh2Iph7kGwB1-XvIOdjSozQPhwBFjaCfw?e=YPYhMV][brev]]). *{{{color(red, Venter fortsatt på data)}}}*
 *** NPR og KPR
 - Fikk bekreftelse om mottatt kopi av vedtak om tilgjengeliggjøring av
   opplysninger fra Helsedataservice og søknaden 10.11.23. Se [[https://folkehelse.sharepoint.com/:b:/s/2243/EamdUVzLV8VLiJs0p9lZZ0EBcYpYzcx1GRPGpSOUOPJqTg?e=mg5wo5][e-post]]
@@ -320,28 +333,16 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Mappe =../Data/01_raw= inneholder raw data sortert på dato de er mottatt.
   Følgebrev finnes også i samme mappen.
 
-** Utvikle indikatorer for løpende statistikk
-:PROPERTIES:
-:year: 2023
-:END:
-*Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* 01.10.2024 \\
-*Prioritering:* A\\
-
-- Indikatorer er basert på FMDS skjema
-- Indikatorer skal publiseres tertialvis og leveres til SVV.
-- Forslag til indikatorer finnes her [[https://github.com/fyrtaarn/indikator/blob/main/indikator.org]]
-- Ingen pulsering for indikatorer for 2023 siden Hdir har publisert rapporten for 2023 inkludert data for FMDS. Rapporten finnes [[https://www.fhi.no/publ/2024/personskadedata-2023/][her]]
-- Publisering for 1-kvartal finnes [[https://fyrtaarn.github.io/indikator/jan-apr-2024.html][her]]
-- Publisering for 2 og 3 kvartaler ikke er mulig siden vi fortsatt ikke får data. Søknaden til helsedata service er sendt.
 ** Utvikle analysesystem for produksjon av løpende statistikk
 :PROPERTIES:
 :year: 2023
 :END:
 
-*Status:* {{{color(red, Ikke påbegynt)}}} \\
-*Sist endret:* \\
-*Prioritering:* C\\
+*Status:* {{{color(#07b504, Pågående)}}}\\
+*Sist endret:* 15.02.2025 \\
+*Prioritering:* A\\
+
+- R pakke [[https://fyrtaarn.github.io/fyr/][fyr]] er klar til bruk
 
 ** Preliminære analyser av FMDS data
 :PROPERTIES:
@@ -400,15 +401,22 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 *Sist endret:* 02.10.2024 \\
 *Prioritering:* A\\
 
-Utarbeidet rapport som skal utleveres til Statens vegvesen.
+- Utarbeidet rapport som skal utleveres til Statens vegvesen. Rapporten inneholder indikatorer for trafikkulykker.
+- Indikatorer er basert på FMDS skjema
+- Indikatorer skal publiseres tertialvis
+- Forslag til indikatorer finnes her [[https://github.com/fyrtaarn/indikator/blob/main/indikator.org]]
+
+*** 2023
+- Ingen pulsering for indikatorer for 2023 siden Hdir har publisert rapporten for 2023 inkludert data for FMDS. Rapporten finnes [[https://www.fhi.no/publ/2024/personskadedata-2023/][her]]
 *** Første tertial 2024
 - Rapporten ble sendt til Anne Mette Bjerkan den 02.10.2024
 - Rapporten er tilgjengelig her https://fyrtaarn.github.io/indikator/jan-apr-2024.html
 *** Andre tertial 2024
 - Søknad om tilgang til data er sendt til Helsedataservice den 09.10.2024
+- *{{{color(red, Venter fortsatt på data)}}}*
 
 * Ikke påbegynt
-** Produksjon av rapporter i Alvis
+** Produksjon av interaktiv publisering
 :PROPERTIES:
 :year:     2024
 :END:
@@ -417,7 +425,7 @@ Utarbeidet rapport som skal utleveres til Statens vegvesen.
 *Sist endret:* 09.08.2023 \\
 *Prioritering:* B\\
 
-Publisering av statistikk ved bruk av Alvis.
+Publisering av statistikk ved bruk av Alvis eller FHI statistikkbank.
 
 ** Representativ analyser
 :PROPERTIES:
