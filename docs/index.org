@@ -345,7 +345,7 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 
 - R pakke [[https://fyrtaarn.github.io/fyr/][fyr]] er klar til bruk
 
-**  nalyser av FMDS data
+** Analyser av Somatikk og FMDS data
 :PROPERTIES:
 :year: 2023
 :END:
