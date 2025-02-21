@@ -79,7 +79,7 @@ og /C/ er lavest. Hver seksjon eller tittel inneholder kronologiske hendelser dv
 *Prioritering:* A \\
 
 REK-søknaden ble godkjent i desember 2022
-** Samarbeidsavtale med Hdir
+** Samarbeidsavtale med Registerkvalitet FHI, tidligere Hdir
 :PROPERTIES:
 :year: 2022
 :END:
