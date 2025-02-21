@@ -318,7 +318,7 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 **** Vedtak <<sec:vedtak>>
 - Søknaden 29.06.2023 og fikk vedtak 01.11.2023 [[https://folkehelse.sharepoint.com/:b:/s/2243/ERW2V8IiDIlDhtuP8e9DPhgBtHhCWHIgKH0wULJuyGG3SQ?e=1x4Srz][vedtak-brev]] og revidert vedtak 14.11.2023 ([[https://folkehelse.sharepoint.com/:b:/s/2243/ESAV9SF8OmZNmZdDjbpl4Y0BF_EtJLC2rFB22hIkmq3OwQ?e=bdqqRd][brev]]). Dataene motatt 22.04.2024 for perioden 01.01.2022 til 31.12.2023
 - Søknaden 29.04.2024 og fikk vedtak 08.07.2024 ([[https://folkehelse.sharepoint.com/:b:/s/2243/ESoYdN_sE1tOqnXW4tp2ifgB1DU2q9LstjhZSvH7r00oPg?e=kJbuM8][brev]]). Dataene motatt 11.07.2024
-- Søknaden 09.10.2024 og fikk vedtak 02.12.2024 ([[https://folkehelse.sharepoint.com/:b:/s/2243/EeCNwodOg_dMlrh2Iph7kGwB1-XvIOdjSozQPhwBFjaCfw?e=YPYhMV][brev]]). *{{{color(red, Venter fortsatt på data)}}}*
+- Søknaden 09.10.2024 og fikk vedtak 02.12.2024 ([[https://folkehelse.sharepoint.com/:b:/s/2243/EeCNwodOg_dMlrh2Iph7kGwB1-XvIOdjSozQPhwBFjaCfw?e=YPYhMV][brev]]). *{{{color(red, Venter fortsatt på data)}}}*. Se [[hds][kommunikasjonen]]
 *** NPR og KPR
 - Fikk bekreftelse om mottatt kopi av vedtak om tilgjengeliggjøring av
   opplysninger fra Helsedataservice og søknaden 10.11.23. Se [[https://folkehelse.sharepoint.com/:b:/s/2243/EamdUVzLV8VLiJs0p9lZZ0EBcYpYzcx1GRPGpSOUOPJqTg?e=mg5wo5][e-post]]
