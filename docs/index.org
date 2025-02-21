@@ -441,14 +441,6 @@ Publisering av statistikk ved bruk av Alvis eller FHI statistikkbank.
 *Sist endret:* 09.08.2023 \\
 *Prioritering:* A\\
 
-** Ferdigstille artikkel
-:PROPERTIES:
-:year:     2024
-:END:
-
-*Status:* {{{color(red, Ikke påbegynt)}}}\\
-*Sist endret:* 09.08.2023 \\
-*Prioritering:* B\\
 ** Søknad om tilgang til data for forskning
 :PROPERTIES:
 :year:     2024
@@ -457,3 +449,12 @@ Publisering av statistikk ved bruk av Alvis eller FHI statistikkbank.
 *Status:* {{{color(red, Ikke påbegynt)}}}\\
 *Sist endret:* 09.08.2023 \\
 *Prioritering:* A\\
+
+** Ferdigstille artikler
+:PROPERTIES:
+:year:     2024
+:END:
+
+*Status:* {{{color(red, Ikke påbegynt)}}}\\
+*Sist endret:* 09.08.2023 \\
+*Prioritering:* B\\
