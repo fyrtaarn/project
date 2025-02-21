@@ -334,6 +334,19 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Mappe =../Data/01_raw= inneholder raw data sortert på dato de er mottatt.
   Følgebrev finnes også i samme mappen.
 
+** Analyser av Somatikk og FMDS data
+:PROPERTIES:
+:year: 2023
+:END:
+
+*Status:* {{{color(#07b504, Pågående)}}} \\
+*Sist endret:* 21.02.2025 \\
+*Prioritering:* A\\
+
+- Forberedelse til data rensing og analyser
+- Arbeid kan ses på [[https://github.com/fyrtaarn/analysis/tree/main/npr][Github]]
+- Bland annen inngår utvikling av [[https://fyrtaarn.github.io/fyr/][fyr]] R pakke
+
 ** Utvikle analysesystem for produksjon av løpende statistikk
 :PROPERTIES:
 :year: 2023
@@ -344,18 +357,6 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 *Prioritering:* A\\
 
 - R pakke [[https://fyrtaarn.github.io/fyr/][fyr]] er klar til bruk
-
-** Analyser av Somatikk og FMDS data
-:PROPERTIES:
-:year: 2023
-:END:
-
-*Status:* {{{color(#07b504, Pågående)}}} \\
-*Sist endret:* \\
-*Prioritering:* A\\
-
-- Forberedelse til data rensing og analyser
-- Arbeid kan ses på [[https://github.com/fyrtaarn/analysis/tree/main/npr][Github]]
 
 ** Litteratur oppdatering
 :PROPERTIES:
