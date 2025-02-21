@@ -410,12 +410,13 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 
 *** 2023
 - Ingen pulsering for indikatorer for 2023 siden Hdir har publisert rapporten for 2023 inkludert data for FMDS. Rapporten finnes [[https://www.fhi.no/publ/2024/personskadedata-2023/][her]]
-*** Første tertial 2024
-- Rapporten ble sendt til Anne Mette Bjerkan den 02.10.2024
-- Rapporten er tilgjengelig her https://fyrtaarn.github.io/indikator/jan-apr-2024.html
-*** Andre tertial 2024
-- Søknad om tilgang til data er sendt til Helsedataservice den 09.10.2024. Se [[sec:vedtak][Vedtak]]
-- *{{{color(red, Venter fortsatt på data)}}}*
+*** 2024
+**** Første tertial
++ Rapporten ble sendt til Anne Mette Bjerkan den 02.10.2024
++ Rapporten er tilgjengelig her https://fyrtaarn.github.io/indikator/jan-apr-2024.html
+**** Andre tertial
++ Søknad om tilgang til data er sendt til Helsedataservice den 09.10.2024. Se [[sec:vedtak][Vedtak]]
++ *{{{color(red, Venter fortsatt på data)}}}*
 
 * Ikke påbegynt
 ** Produksjon av interaktiv publisering
