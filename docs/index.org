@@ -235,6 +235,7 @@ DPIA er godkjent.
 
 ** Utvikle indikatorer for løpende statistikk
 :PROPERTIES:
+:CUSTOM_ID: indikator
 :year: 2023
 :END:
 *Status:* {{{color(blue, Ferdig)}}} \\
@@ -314,7 +315,7 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Fikk tilbakemelding 08.08.2023 om å revurdere variablene. Se [[https://folkehelse.sharepoint.com/:b:/s/2243/EVQ1x8JJTVVKn5MB5sh71MQBetyMMNXWil-GGbD0KuOcUA?e=bP68XI][svaret]].
 - Fikk [[https://folkehelse.sharepoint.com/:b:/s/2243/EdSJwsXEaXJBkcBQZMliFHEBgVN69xmXTyc1ETJqBlQKsg?e=nxVsUq][faktura]] fra Helsedataservice kr 23 240,63 som er betalt med prosjekt 27021 (Fyrtårn).
 
-**** Vedtak
+**** Vedtak <<sec:vedtak>>
 - Søknaden 29.06.2023 og fikk vedtak 01.11.2023 [[https://folkehelse.sharepoint.com/:b:/s/2243/ERW2V8IiDIlDhtuP8e9DPhgBtHhCWHIgKH0wULJuyGG3SQ?e=1x4Srz][vedtak-brev]] og revidert vedtak 14.11.2023 ([[https://folkehelse.sharepoint.com/:b:/s/2243/ESAV9SF8OmZNmZdDjbpl4Y0BF_EtJLC2rFB22hIkmq3OwQ?e=bdqqRd][brev]]). Dataene motatt 22.04.2024 for perioden 01.01.2022 til 31.12.2023
 - Søknaden 29.04.2024 og fikk vedtak 08.07.2024 ([[https://folkehelse.sharepoint.com/:b:/s/2243/ESoYdN_sE1tOqnXW4tp2ifgB1DU2q9LstjhZSvH7r00oPg?e=kJbuM8][brev]]). Dataene motatt 11.07.2024
 - Søknaden 09.10.2024 og fkkk vedtak 02.12.2024 ([[https://folkehelse.sharepoint.com/:b:/s/2243/EeCNwodOg_dMlrh2Iph7kGwB1-XvIOdjSozQPhwBFjaCfw?e=YPYhMV][brev]]). *{{{color(red, Venter fortsatt på data)}}}*
@@ -344,7 +345,7 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 
 - R pakke [[https://fyrtaarn.github.io/fyr/][fyr]] er klar til bruk
 
-** Preliminære analyser av FMDS data
+**  nalyser av FMDS data
 :PROPERTIES:
 :year: 2023
 :END:
@@ -401,7 +402,7 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 *Sist endret:* 02.10.2024 \\
 *Prioritering:* A\\
 
-- Utarbeidet rapport som skal utleveres til Statens vegvesen. Rapporten inneholder indikatorer for trafikkulykker.
+- Utarbeidet rapport som skal utleveres til Statens vegvesen. Rapporten inneholder indikatorer for trafikkulykker. Se [[#indikator][Indikatorer for løpende statistikk]]
 - Indikatorer er basert på FMDS skjema
 - Indikatorer skal publiseres tertialvis
 - Forslag til indikatorer finnes her [[https://github.com/fyrtaarn/indikator/blob/main/indikator.org]]
@@ -412,7 +413,7 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - Rapporten ble sendt til Anne Mette Bjerkan den 02.10.2024
 - Rapporten er tilgjengelig her https://fyrtaarn.github.io/indikator/jan-apr-2024.html
 *** Andre tertial 2024
-- Søknad om tilgang til data er sendt til Helsedataservice den 09.10.2024
+- Søknad om tilgang til data er sendt til Helsedataservice den 09.10.2024. Se [[sec:vedtak][Vedtak]]
 - *{{{color(red, Venter fortsatt på data)}}}*
 
 * Ikke påbegynt
