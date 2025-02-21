@@ -332,7 +332,7 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 - <<hds>>Det har vært frem-og-tilbake angående søknad som skal gjøres igjen via Altinn ([[https://folkehelse.sharepoint.com/:b:/s/2243/EWIUZ6sxAXRLvpn2qmz5XOYBjAlevi0tQm2gE7oi4FNvNg?e=HU4ztO][brev]]), men nå må det gjøres via HDS likevel ([[https://folkehelse.sharepoint.com/:b:/s/2243/EaiR88ZlZ-5PlP6By_TERScBIWwYrnWsqFdHxRNE1n_zxQ?e=TIfYim][brev]])
 - Signe Ringdal Bergan ba om å snakke med deres jurister angående søknaden ([[https://folkehelse.sharepoint.com/:b:/s/2243/EZy4F5zqSdhHqZ64G_sXhGYB_YXXj4QSK3yIdy-4tLEGkw?e=8aYFSd][brev]]) og hun skal avtale et møte.
 *** Dataset
-- Kodebok er [[https://folkehelse.sharepoint.com/:x:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Kodebok_Skader_i_Norge.csv?d=w71525a1e9cf4416386360f4dab267197&csf=1&web=1&e=VVyMUN][her]]
+- Kodebok er [[https://shiny.fhi-api.com/users/ybk/public/codebook/][her]] eller som [[https://folkehelse.sharepoint.com/:x:/r/sites/2243/Delte%20dokumenter/Datakilder/Helsedirektoratet/Kodebok_Skader_i_Norge.csv?d=w71525a1e9cf4416386360f4dab267197&csf=1&web=1&e=VVyMUN][Excel fil]]
 - Dataene ligger i forskningsmappe [[F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_][F:\Forskningsprosjekter\PDB 3327 - Skader i Norge analy_]]
 - Mappe =../Data/01_raw= inneholder raw data sortert på dato de er mottatt.
   Følgebrev finnes også i samme mappen.
