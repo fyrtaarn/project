@@ -41,7 +41,6 @@
 #+MACRO: color @@html:<span style="color: $1">$2</span>@@@@latex:\textcolor{$1}{$2}@@@@odt:<text:span text:style-name="$1">$2</text:span>@@
 
 #+INCLUDE: "back-to-top.html" export html
-#+STYLE:h1 {color:#9900FF}
 
 Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI
 har ansvar for. *Status* for hvert aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(#07b504, Pågående)}}}/,
