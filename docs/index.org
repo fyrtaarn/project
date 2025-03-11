@@ -214,7 +214,7 @@ DPIA er sendt til godkjenner via P360. Arbeidsbeskrivelse for arkivering til
 senere referanse finnes her [[http://opus.fhi.no/Kvalitetsdokumenter/04 St%C3%B8tte til forskning (FO)/Yte juridiske tjenester knyttet til forskning (JU)/Arbeidsbeskrivelse/FO-JU-AR-011.docx][Arkivering og godkjenning av DPIA i P360]].
 
 *** Dato 06.06.2023
-DPIA er godkjent.
+DPIA er [[https://folkehelse.sharepoint.com/:b:/s/2243/EXa-Ab-pTMlCoyKYERxIbhkBrKgjPXUiHc8V-GdJ9Y9e5g?e=dl8Ram][godkjent]].
 
 ** Oppdragsavtale med SVV
 :PROPERTIES:
