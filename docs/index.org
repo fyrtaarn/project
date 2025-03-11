@@ -420,6 +420,18 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 + Søknad om tilgang til data er sendt til Helsedataservice den 09.10.2024. Se [[sec:vedtak][Vedtak]]
 + *{{{color(red, Venter fortsatt på data)}}}*. Se [[hds][kommunikasjonen med avd. for Registerkvalitet]]
 
+** Representativ analyser
+:PROPERTIES:
+:year:     2024
+:END:
+
+*Status:* {{{color(#07b504, Pågående)}}}\\
+*Sist endret:* 11.03.2025 \\
+*Prioritering:* A\\
+
+- Referanse til denne rapporten side 61 [[https://www.tryggtrafikk.no/content/uploads/2024/03/Fyrtarnsprosjektet2021_nett_enkeltsider.pdf][tryggtrafikk]]
+- Analyser for 2023 er klar innen mars 2025.
+
 * Ikke påbegynt
 ** Produksjon av interaktiv publisering
 :PROPERTIES:
@@ -431,15 +443,6 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 *Prioritering:* B\\
 
 Publisering av statistikk ved bruk av Alvis eller FHI statistikkbank.
-
-** Representativ analyser
-:PROPERTIES:
-:year:     2024
-:END:
-
-*Status:* {{{color(red, Ikke påbegynt)}}}\\
-*Sist endret:* 09.08.2023 \\
-*Prioritering:* A\\
 
 ** Søknad om tilgang til data for forskning
 :PROPERTIES:
