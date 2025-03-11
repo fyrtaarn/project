@@ -472,6 +472,6 @@ Ting som må gjøres før 01.04.2025
 - Søk om tilgang til PDB 3327 for Christian Page. Ta kontakt med FAS [[mailto:FAS@fhi.no][FAS@fhi.no]]
 - Data for Fyrtårnprosjektet ligger her.
 ** Overføring for søknaden hos Helsedata service
-- Kari Alver tar over som kontakt person
-- Det ikke er mulig å overføre søknader til ny søker/prosjektleder. Se [[https://folkehelse.sharepoint.com/:b:/s/2243/Ec18pSaPOG1CldHVEhPuacwB9kMq-MYkAk_cit3J_yklSg?e=pCPSaY][e-post]]
+- Kari Alver tar over som kontaktperson
+- Det er ikke mulig å overføre søknader til ny søker/prosjektleder @@html:&#128542@@. Se [[https://folkehelse.sharepoint.com/:b:/s/2243/Ec18pSaPOG1CldHVEhPuacwB9kMq-MYkAk_cit3J_yklSg?e=pCPSaY][e-post]]
 - Må sende ny søknad med referanse til prosjektnummer *H-337*
