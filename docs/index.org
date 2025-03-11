@@ -42,10 +42,7 @@
 
 #+INCLUDE: "back-to-top.html" export html
 
-Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI
-har ansvar for. *Status* for hvert aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(#07b504, Pågående)}}}/,
-/{{{color(red, Ikke påbegynt)}}}/ eller /{{{color(#9b5c4c, Ikke aktuelt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest
-og /C/ er lavest. Hver seksjon eller tittel inneholder kronologiske hendelser dvs. den nyeste oppdateringer ligger nederst.
+Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI ved Avd. for Fysisk helse og aldring (/Analyseenheten/) har ansvar for. *Status* for hvert aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(#07b504, Pågående)}}}/, /{{{color(red, Ikke påbegynt)}}}/ eller /{{{color(#9b5c4c, Ikke aktuelt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest og /C/ er lavest. Hver seksjon eller tittel inneholder kronologiske hendelser dvs. den nyeste oppdateringer ligger nederst.
 
 * Gjennomført
 ** Prosjektprotokoll
@@ -359,6 +356,11 @@ Søknaden er sendt via Altinn 6.6.2023. Referansenummer i Altinn: *AR555116241*.
 *Prioritering:* A\\
 
 - R pakke [[https://fyrtaarn.github.io/fyr/][fyr]] er klar til bruk
+
+#+CAPTION: fyr package
+#+NAME: fig:fyr
+#+ATTR_HTML: :width 100px
+[[./img/fyr_logo.png]]
 
 ** Litteratur oppdatering
 :PROPERTIES:
