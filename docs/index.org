@@ -467,11 +467,31 @@ Publisering av statistikk ved bruk av Alvis eller FHI statistikkbank.
 Ting som må gjøres før 01.04.2025
 
 ** Melde inn endringer i prosjektet
+*Status:* {{{color(blue, ferdig)}}}\\
+*Sist endret:* 20.03.2025 \\
+*Prioritering:* A\\
 - Send endring for prosjektleder til REK. Ta kontakt med FAS om hvordan dette skal gjøre. Se [[https://folkehelse.sharepoint.com/sites/Forskningsstotte/SitePages/eProtokoll.aspx#hvordan-melde-inn-endringer-i-prosjektet][veiledning]] i SharePoint.
+- Søknaden er godkjent 20.03.2025. Se [[https://folkehelse.sharepoint.com/:b:/s/2243/EeyZvnKenppIq5efTbdx1zIBspa2fzWVV93bIEeJcPe3Kg?e=BqaiLR][svarbrev]] fra REK
+** Endre eProtokoll
+*Status:* {{{color(blue, ferdig)}}}\\
+*Sist endret:* 20.03.2025 \\
+*Prioritering:* A\\
+
+- Referanse for eProtokoll er *515979 Skader i Norge: analyse av data i Fyrtårnprosjektet*.
+- Kari Alver er nå kontaktperson og behandlingsansvarlig.
+- Ta kontakt med FAS for å kunne ha tilgangen til eProtokollen.
+
 ** Søk om tilgang til PDB
+*Status:* {{{color(#07b504, Pågående)}}}\\
+*Sist endret:* 21.03.2025 \\
+*Prioritering:* A\\
 - Søk om tilgang til PDB 3327 for Christian Page. Ta kontakt med FAS [[mailto:FAS@fhi.no][FAS@fhi.no]]
-- Data for Fyrtårnprosjektet ligger her.
+- Data for Fyrtårnprosjektet ligger i denne mappen /PDB 3324 - Skader i Norge analy_/
+- Tok kontakt med FAS den 21.03.2025
 ** Overføring for søknaden hos Helsedata service
+*Status:* {{{color(blue, ferdig)}}}\\
+*Sist endret:* 10.03.2025 \\
+*Prioritering:* A\\
 - Kari Alver tar over som kontaktperson
 - Det er ikke mulig å overføre søknader til ny søker/prosjektleder @@html:&#128542@@. Se [[https://folkehelse.sharepoint.com/:b:/s/2243/Ec18pSaPOG1CldHVEhPuacwB9kMq-MYkAk_cit3J_yklSg?e=pCPSaY][e-post]]
 - Må sende ny søknad med referanse til prosjektnummer *H-337*
