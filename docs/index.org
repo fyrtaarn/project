@@ -434,7 +434,7 @@ Tidligere søknad var sendt via Altinn den 6.6.2023. Referansenummer i Altinn: *
 *Prioritering:* A\\
 
 - Referanse til denne rapporten side 61 [[https://www.tryggtrafikk.no/content/uploads/2024/03/Fyrtarnsprosjektet2021_nett_enkeltsider.pdf][tryggtrafikk]]
-- Analyser for 2023 er klar innen mars 2025.
+- Analyser for 2023 [[https://fyrtaarn.github.io/analysis/representativitet][representativitet]] basert for rapporten ovenfor.
 
 * Ikke påbegynt
 ** Produksjon av interaktiv publisering
