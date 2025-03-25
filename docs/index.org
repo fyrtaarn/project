@@ -42,7 +42,9 @@
 
 #+INCLUDE: "back-to-top.html" export html
 
-Her finner man liste over aktiviteter relatert til Fyrtårnprosjektet hvor FHI ved Avd. for Fysisk helse og aldring (/Analyseenheten/) har ansvar for. *Status* for hvert aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(#07b504, Pågående)}}}/, /{{{color(red, Ikke påbegynt)}}}/ eller /{{{color(#9b5c4c, Ikke aktuelt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest og /C/ er lavest. Hver seksjon eller tittel inneholder kronologiske hendelser dvs. den nyeste oppdateringer ligger nederst.
+Her finner du en liste over aktiviteter relatert til Fyrtårnprosjektet, som FHI ved Avd. for Fysisk helse og aldring (/Analyseenheten/) har ansvaret for. *Status* for hver aktivitet kan være /{{{color(blue, Ferdig)}}}, {{{color(#07b504, Pågående)}}}/, /{{{color(red, Ikke påbegynt)}}}/, eller /{{{color(#9b5c4c, Ikke aktuelt)}}}/, mens *Prioritering* kan være /A, B/ eller /C/ hvor /A/ er høyest og /C/ er lavest. Hver seksjon eller tittel inneholder kronologiske hendelser, dvs. den nyeste oppdateringene ligger nederst.
+
+*NB!!* For å kunne åpne noen av linkede dokumentene her, må du ha tilgang til *Fyrtårnprosjektet* i SharePoint.
 
 * Gjennomført
 ** Prosjektprotokoll
