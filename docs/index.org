@@ -501,3 +501,4 @@ Ting som må gjøres før 01.04.2025
 - Det er ikke mulig å overføre søknader til ny søker/prosjektleder @@html:&#128542@@ Se [[https://folkehelse.sharepoint.com/:b:/s/2243/Ec18pSaPOG1CldHVEhPuacwB9kMq-MYkAk_cit3J_yklSg?e=pCPSaY][e-post]]
 - Må sende ny søknad med referanse til prosjektnummer *H-337*
 - Se [[sec:vedtak][vedtak]] om status til søknadene.
+- Søknaden ble sendt 09.10.2024. Kopi av søknaden finnes [[https://folkehelse.sharepoint.com/:b:/s/2243/EdVJa94FaN9Ag5jLXav6LM4BftKIISsOjKR1PsSW3bpkEw?e=01nq14][her]]
